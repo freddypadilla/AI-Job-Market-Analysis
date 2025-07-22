@@ -15,11 +15,11 @@ Exploring AI job roles, salaries, and required skills using real-world data
 ## 📊 Dashboard
 You can view the interactive dashboard here: (https://public.tableau.com/views/AIJobMarketOverview/TechTalentOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 _or_  
-![Dashboard Screenshot](/Users/frdilla/Desktop/AI/Job/Market//&/Salary/Trends/2025/AI/Job/Market/Overview.png)
+![Dashboard Screenshot](data/AI Dashboard.png)
 
 ## 📁 Project Structure
-- **/data** - Raw and cleaned datasets
 - **/analysis** - Python notebooks or scripts
+- **/data** - Raw and cleaned datasets
 - **/dashboard** - Tableau workbook or image
 - **README.md** - Project overview
 
