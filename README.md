@@ -15,7 +15,7 @@ Exploring AI job roles, salaries, and required skills using real-world data
 ## 📊 Dashboard
 You can view the interactive dashboard here: (https://public.tableau.com/views/AIJobMarketOverview/TechTalentOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 _or_  
-![Dashboard Screenshot](data/AI Dashboard.png)
+![Dashboard Screenshot](dashboard/AI_Dashboard.png)
 
 ## 📁 Project Structure
 - **/analysis** - Python notebooks or scripts
