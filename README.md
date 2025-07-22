@@ -18,10 +18,10 @@ _or_
 ![Dashboard Screenshot](/Users/frdilla/Desktop/AI/Job/Market//&/Salary/Trends/2025/AI/Job/Market/Overview.png)
 
 ## 📁 Project Structure
-/data → Raw and cleaned datasets 
-/analysis → Python notebooks or scripts 
-/dashboard → Tableau workbook or image 
-README.md → Project overview
+- **/data** - Raw and cleaned datasets
+- **/analysis** - Python notebooks or scripts
+- **/dashboard** - Tableau workbook or image
+- **README.md** - Project overview
 
 ## 📌 Dataset
 Kaggle: [Global AI Job Market & Salary Trends 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025)
