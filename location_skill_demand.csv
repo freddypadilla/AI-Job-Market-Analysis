@@ -1,0 +1,481 @@
+company_location,required_skills,demand
+Australia,Aws,110
+Australia,Azure,109
+Australia,Computer Vision,108
+Australia,Data Visualization,103
+Australia,Deep Learning,102
+Australia,Docker,84
+Australia,Gcp,117
+Australia,Git,125
+Australia,Hadoop,113
+Australia,Java,119
+Australia,Kubernetes,151
+Australia,Linux,142
+Australia,Mathematics,118
+Australia,Mlops,98
+Australia,Nlp,97
+Australia,Python,218
+Australia,Pytorch,132
+Australia,R,101
+Australia,Scala,117
+Australia,Spark,116
+Australia,Sql,177
+Australia,Statistics,73
+Australia,Tableau,105
+Australia,Tensorflow,159
+Austria,Aws,89
+Austria,Azure,92
+Austria,Computer Vision,113
+Austria,Data Visualization,96
+Austria,Deep Learning,93
+Austria,Docker,89
+Austria,Gcp,120
+Austria,Git,126
+Austria,Hadoop,112
+Austria,Java,120
+Austria,Kubernetes,132
+Austria,Linux,127
+Austria,Mathematics,75
+Austria,Mlops,93
+Austria,Nlp,94
+Austria,Python,217
+Austria,Pytorch,137
+Austria,R,93
+Austria,Scala,129
+Austria,Spark,113
+Austria,Sql,152
+Austria,Statistics,96
+Austria,Tableau,110
+Austria,Tensorflow,149
+Canada,Aws,98
+Canada,Azure,118
+Canada,Computer Vision,110
+Canada,Data Visualization,127
+Canada,Deep Learning,79
+Canada,Docker,87
+Canada,Gcp,120
+Canada,Git,118
+Canada,Hadoop,133
+Canada,Java,137
+Canada,Kubernetes,197
+Canada,Linux,133
+Canada,Mathematics,104
+Canada,Mlops,108
+Canada,Nlp,101
+Canada,Python,215
+Canada,Pytorch,178
+Canada,R,124
+Canada,Scala,155
+Canada,Spark,121
+Canada,Sql,207
+Canada,Statistics,91
+Canada,Tableau,114
+Canada,Tensorflow,161
+China,Aws,102
+China,Azure,97
+China,Computer Vision,113
+China,Data Visualization,104
+China,Deep Learning,98
+China,Docker,107
+China,Gcp,116
+China,Git,126
+China,Hadoop,116
+China,Java,137
+China,Kubernetes,162
+China,Linux,123
+China,Mathematics,93
+China,Mlops,103
+China,Nlp,120
+China,Python,236
+China,Pytorch,142
+China,R,132
+China,Scala,133
+China,Spark,108
+China,Sql,182
+China,Statistics,101
+China,Tableau,121
+China,Tensorflow,153
+Denmark,Aws,112
+Denmark,Azure,121
+Denmark,Computer Vision,106
+Denmark,Data Visualization,121
+Denmark,Deep Learning,106
+Denmark,Docker,102
+Denmark,Gcp,122
+Denmark,Git,121
+Denmark,Hadoop,118
+Denmark,Java,105
+Denmark,Kubernetes,151
+Denmark,Linux,141
+Denmark,Mathematics,97
+Denmark,Mlops,109
+Denmark,Nlp,108
+Denmark,Python,238
+Denmark,Pytorch,140
+Denmark,R,120
+Denmark,Scala,147
+Denmark,Spark,109
+Denmark,Sql,177
+Denmark,Statistics,85
+Denmark,Tableau,118
+Denmark,Tensorflow,141
+Finland,Aws,117
+Finland,Azure,93
+Finland,Computer Vision,87
+Finland,Data Visualization,93
+Finland,Deep Learning,106
+Finland,Docker,92
+Finland,Gcp,126
+Finland,Git,127
+Finland,Hadoop,131
+Finland,Java,125
+Finland,Kubernetes,156
+Finland,Linux,143
+Finland,Mathematics,80
+Finland,Mlops,114
+Finland,Nlp,96
+Finland,Python,230
+Finland,Pytorch,123
+Finland,R,100
+Finland,Scala,110
+Finland,Spark,115
+Finland,Sql,176
+Finland,Statistics,99
+Finland,Tableau,110
+Finland,Tensorflow,118
+France,Aws,89
+France,Azure,109
+France,Computer Vision,130
+France,Data Visualization,118
+France,Deep Learning,102
+France,Docker,95
+France,Gcp,111
+France,Git,124
+France,Hadoop,129
+France,Java,133
+France,Kubernetes,141
+France,Linux,145
+France,Mathematics,97
+France,Mlops,104
+France,Nlp,109
+France,Python,225
+France,Pytorch,138
+France,R,110
+France,Scala,155
+France,Spark,116
+France,Sql,172
+France,Statistics,92
+France,Tableau,103
+France,Tensorflow,147
+Germany,Aws,101
+Germany,Azure,92
+Germany,Computer Vision,113
+Germany,Data Visualization,113
+Germany,Deep Learning,99
+Germany,Docker,76
+Germany,Gcp,116
+Germany,Git,125
+Germany,Hadoop,134
+Germany,Java,134
+Germany,Kubernetes,169
+Germany,Linux,140
+Germany,Mathematics,98
+Germany,Mlops,93
+Germany,Nlp,100
+Germany,Python,205
+Germany,Pytorch,130
+Germany,R,122
+Germany,Scala,128
+Germany,Spark,134
+Germany,Sql,173
+Germany,Statistics,105
+Germany,Tableau,107
+Germany,Tensorflow,155
+India,Aws,92
+India,Azure,115
+India,Computer Vision,100
+India,Data Visualization,106
+India,Deep Learning,108
+India,Docker,79
+India,Gcp,122
+India,Git,128
+India,Hadoop,111
+India,Java,125
+India,Kubernetes,133
+India,Linux,120
+India,Mathematics,79
+India,Mlops,107
+India,Nlp,94
+India,Python,200
+India,Pytorch,143
+India,R,109
+India,Scala,131
+India,Spark,111
+India,Sql,151
+India,Statistics,97
+India,Tableau,110
+India,Tensorflow,135
+Ireland,Aws,114
+Ireland,Azure,120
+Ireland,Computer Vision,105
+Ireland,Data Visualization,135
+Ireland,Deep Learning,113
+Ireland,Docker,93
+Ireland,Gcp,134
+Ireland,Git,120
+Ireland,Hadoop,91
+Ireland,Java,111
+Ireland,Kubernetes,156
+Ireland,Linux,137
+Ireland,Mathematics,106
+Ireland,Mlops,103
+Ireland,Nlp,94
+Ireland,Python,247
+Ireland,Pytorch,144
+Ireland,R,117
+Ireland,Scala,139
+Ireland,Spark,104
+Ireland,Sql,185
+Ireland,Statistics,93
+Ireland,Tableau,97
+Ireland,Tensorflow,151
+Israel,Aws,124
+Israel,Azure,105
+Israel,Computer Vision,123
+Israel,Data Visualization,117
+Israel,Deep Learning,103
+Israel,Docker,91
+Israel,Gcp,141
+Israel,Git,112
+Israel,Hadoop,91
+Israel,Java,129
+Israel,Kubernetes,160
+Israel,Linux,114
+Israel,Mathematics,111
+Israel,Mlops,120
+Israel,Nlp,98
+Israel,Python,216
+Israel,Pytorch,151
+Israel,R,131
+Israel,Scala,125
+Israel,Spark,118
+Israel,Sql,172
+Israel,Statistics,75
+Israel,Tableau,130
+Israel,Tensorflow,162
+Japan,Aws,96
+Japan,Azure,107
+Japan,Computer Vision,103
+Japan,Data Visualization,116
+Japan,Deep Learning,104
+Japan,Docker,98
+Japan,Gcp,132
+Japan,Git,127
+Japan,Hadoop,105
+Japan,Java,125
+Japan,Kubernetes,158
+Japan,Linux,119
+Japan,Mathematics,94
+Japan,Mlops,110
+Japan,Nlp,116
+Japan,Python,239
+Japan,Pytorch,132
+Japan,R,118
+Japan,Scala,142
+Japan,Spark,119
+Japan,Sql,178
+Japan,Statistics,70
+Japan,Tableau,109
+Japan,Tensorflow,148
+Netherlands,Aws,105
+Netherlands,Azure,95
+Netherlands,Computer Vision,114
+Netherlands,Data Visualization,124
+Netherlands,Deep Learning,91
+Netherlands,Docker,103
+Netherlands,Gcp,112
+Netherlands,Git,123
+Netherlands,Hadoop,109
+Netherlands,Java,142
+Netherlands,Kubernetes,139
+Netherlands,Linux,131
+Netherlands,Mathematics,104
+Netherlands,Mlops,100
+Netherlands,Nlp,96
+Netherlands,Python,231
+Netherlands,Pytorch,139
+Netherlands,R,121
+Netherlands,Scala,140
+Netherlands,Spark,122
+Netherlands,Sql,168
+Netherlands,Statistics,84
+Netherlands,Tableau,114
+Netherlands,Tensorflow,165
+Norway,Aws,112
+Norway,Azure,98
+Norway,Computer Vision,135
+Norway,Data Visualization,103
+Norway,Deep Learning,98
+Norway,Docker,103
+Norway,Gcp,110
+Norway,Git,133
+Norway,Hadoop,93
+Norway,Java,128
+Norway,Kubernetes,143
+Norway,Linux,147
+Norway,Mathematics,91
+Norway,Mlops,104
+Norway,Nlp,101
+Norway,Python,233
+Norway,Pytorch,156
+Norway,R,112
+Norway,Scala,133
+Norway,Spark,120
+Norway,Sql,180
+Norway,Statistics,97
+Norway,Tableau,104
+Norway,Tensorflow,165
+Singapore,Aws,102
+Singapore,Azure,112
+Singapore,Computer Vision,116
+Singapore,Data Visualization,121
+Singapore,Deep Learning,107
+Singapore,Docker,111
+Singapore,Gcp,124
+Singapore,Git,115
+Singapore,Hadoop,121
+Singapore,Java,123
+Singapore,Kubernetes,149
+Singapore,Linux,114
+Singapore,Mathematics,101
+Singapore,Mlops,120
+Singapore,Nlp,119
+Singapore,Python,238
+Singapore,Pytorch,139
+Singapore,R,109
+Singapore,Scala,145
+Singapore,Spark,105
+Singapore,Sql,179
+Singapore,Statistics,111
+Singapore,Tableau,116
+Singapore,Tensorflow,159
+South Korea,Aws,103
+South Korea,Azure,87
+South Korea,Computer Vision,123
+South Korea,Data Visualization,118
+South Korea,Deep Learning,107
+South Korea,Docker,95
+South Korea,Gcp,135
+South Korea,Git,121
+South Korea,Hadoop,115
+South Korea,Java,127
+South Korea,Kubernetes,153
+South Korea,Linux,135
+South Korea,Mathematics,99
+South Korea,Mlops,104
+South Korea,Nlp,105
+South Korea,Python,246
+South Korea,Pytorch,122
+South Korea,R,121
+South Korea,Scala,140
+South Korea,Spark,115
+South Korea,Sql,170
+South Korea,Statistics,87
+South Korea,Tableau,134
+South Korea,Tensorflow,151
+Sweden,Aws,94
+Sweden,Azure,92
+Sweden,Computer Vision,127
+Sweden,Data Visualization,117
+Sweden,Deep Learning,106
+Sweden,Docker,100
+Sweden,Gcp,135
+Sweden,Git,122
+Sweden,Hadoop,122
+Sweden,Java,111
+Sweden,Kubernetes,145
+Sweden,Linux,117
+Sweden,Mathematics,101
+Sweden,Mlops,104
+Sweden,Nlp,88
+Sweden,Python,215
+Sweden,Pytorch,149
+Sweden,R,124
+Sweden,Scala,121
+Sweden,Spark,96
+Sweden,Sql,172
+Sweden,Statistics,75
+Sweden,Tableau,121
+Sweden,Tensorflow,166
+Switzerland,Aws,114
+Switzerland,Azure,131
+Switzerland,Computer Vision,131
+Switzerland,Data Visualization,102
+Switzerland,Deep Learning,115
+Switzerland,Docker,115
+Switzerland,Gcp,122
+Switzerland,Git,137
+Switzerland,Hadoop,137
+Switzerland,Java,135
+Switzerland,Kubernetes,167
+Switzerland,Linux,145
+Switzerland,Mathematics,110
+Switzerland,Mlops,118
+Switzerland,Nlp,115
+Switzerland,Python,243
+Switzerland,Pytorch,150
+Switzerland,R,113
+Switzerland,Scala,155
+Switzerland,Spark,107
+Switzerland,Sql,194
+Switzerland,Statistics,104
+Switzerland,Tableau,132
+Switzerland,Tensorflow,185
+United Kingdom,Aws,121
+United Kingdom,Azure,125
+United Kingdom,Computer Vision,122
+United Kingdom,Data Visualization,114
+United Kingdom,Deep Learning,117
+United Kingdom,Docker,91
+United Kingdom,Gcp,118
+United Kingdom,Git,135
+United Kingdom,Hadoop,134
+United Kingdom,Java,149
+United Kingdom,Kubernetes,158
+United Kingdom,Linux,137
+United Kingdom,Mathematics,81
+United Kingdom,Mlops,107
+United Kingdom,Nlp,113
+United Kingdom,Python,205
+United Kingdom,Pytorch,137
+United Kingdom,R,138
+United Kingdom,Scala,147
+United Kingdom,Spark,107
+United Kingdom,Sql,174
+United Kingdom,Statistics,95
+United Kingdom,Tableau,129
+United Kingdom,Tensorflow,162
+United States,Aws,112
+United States,Azure,119
+United States,Computer Vision,97
+United States,Data Visualization,126
+United States,Deep Learning,107
+United States,Docker,96
+United States,Gcp,127
+United States,Git,126
+United States,Hadoop,128
+United States,Java,116
+United States,Kubernetes,158
+United States,Linux,132
+United States,Mathematics,97
+United States,Mlops,126
+United States,Nlp,114
+United States,Python,202
+United States,Pytorch,149
+United States,R,131
+United States,Scala,156
+United States,Spark,108
+United States,Sql,172
+United States,Statistics,85
+United States,Tableau,129
+United States,Tensorflow,164

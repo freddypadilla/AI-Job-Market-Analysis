@@ -1,0 +1,481 @@
+job_title,required_skills,demand
+AI Architect,Aws,106
+AI Architect,Azure,108
+AI Architect,Computer Vision,123
+AI Architect,Data Visualization,108
+AI Architect,Deep Learning,96
+AI Architect,Docker,107
+AI Architect,Gcp,117
+AI Architect,Git,128
+AI Architect,Hadoop,105
+AI Architect,Java,123
+AI Architect,Kubernetes,145
+AI Architect,Linux,120
+AI Architect,Mathematics,98
+AI Architect,Mlops,121
+AI Architect,Nlp,110
+AI Architect,Python,209
+AI Architect,Pytorch,154
+AI Architect,R,127
+AI Architect,Scala,136
+AI Architect,Spark,116
+AI Architect,Sql,191
+AI Architect,Statistics,101
+AI Architect,Tableau,119
+AI Architect,Tensorflow,143
+AI Consultant,Aws,107
+AI Consultant,Azure,91
+AI Consultant,Computer Vision,122
+AI Consultant,Data Visualization,95
+AI Consultant,Deep Learning,100
+AI Consultant,Docker,88
+AI Consultant,Gcp,121
+AI Consultant,Git,118
+AI Consultant,Hadoop,140
+AI Consultant,Java,99
+AI Consultant,Kubernetes,135
+AI Consultant,Linux,130
+AI Consultant,Mathematics,96
+AI Consultant,Mlops,116
+AI Consultant,Nlp,94
+AI Consultant,Python,191
+AI Consultant,Pytorch,159
+AI Consultant,R,96
+AI Consultant,Scala,140
+AI Consultant,Spark,114
+AI Consultant,Sql,172
+AI Consultant,Statistics,77
+AI Consultant,Tableau,105
+AI Consultant,Tensorflow,144
+AI Product Manager,Aws,91
+AI Product Manager,Azure,96
+AI Product Manager,Computer Vision,114
+AI Product Manager,Data Visualization,128
+AI Product Manager,Deep Learning,105
+AI Product Manager,Docker,97
+AI Product Manager,Gcp,111
+AI Product Manager,Git,126
+AI Product Manager,Hadoop,132
+AI Product Manager,Java,122
+AI Product Manager,Kubernetes,145
+AI Product Manager,Linux,146
+AI Product Manager,Mathematics,94
+AI Product Manager,Mlops,122
+AI Product Manager,Nlp,116
+AI Product Manager,Python,241
+AI Product Manager,Pytorch,133
+AI Product Manager,R,127
+AI Product Manager,Scala,135
+AI Product Manager,Spark,125
+AI Product Manager,Sql,167
+AI Product Manager,Statistics,106
+AI Product Manager,Tableau,136
+AI Product Manager,Tensorflow,166
+AI Research Scientist,Aws,106
+AI Research Scientist,Azure,96
+AI Research Scientist,Computer Vision,126
+AI Research Scientist,Data Visualization,109
+AI Research Scientist,Deep Learning,102
+AI Research Scientist,Docker,99
+AI Research Scientist,Gcp,125
+AI Research Scientist,Git,103
+AI Research Scientist,Hadoop,120
+AI Research Scientist,Java,128
+AI Research Scientist,Kubernetes,170
+AI Research Scientist,Linux,123
+AI Research Scientist,Mathematics,100
+AI Research Scientist,Mlops,121
+AI Research Scientist,Nlp,99
+AI Research Scientist,Python,219
+AI Research Scientist,Pytorch,134
+AI Research Scientist,R,103
+AI Research Scientist,Scala,135
+AI Research Scientist,Spark,89
+AI Research Scientist,Sql,161
+AI Research Scientist,Statistics,75
+AI Research Scientist,Tableau,107
+AI Research Scientist,Tensorflow,155
+AI Software Engineer,Aws,112
+AI Software Engineer,Azure,119
+AI Software Engineer,Computer Vision,107
+AI Software Engineer,Data Visualization,120
+AI Software Engineer,Deep Learning,106
+AI Software Engineer,Docker,92
+AI Software Engineer,Gcp,129
+AI Software Engineer,Git,118
+AI Software Engineer,Hadoop,112
+AI Software Engineer,Java,102
+AI Software Engineer,Kubernetes,156
+AI Software Engineer,Linux,122
+AI Software Engineer,Mathematics,94
+AI Software Engineer,Mlops,88
+AI Software Engineer,Nlp,99
+AI Software Engineer,Python,221
+AI Software Engineer,Pytorch,110
+AI Software Engineer,R,120
+AI Software Engineer,Scala,152
+AI Software Engineer,Spark,121
+AI Software Engineer,Sql,156
+AI Software Engineer,Statistics,100
+AI Software Engineer,Tableau,109
+AI Software Engineer,Tensorflow,160
+AI Specialist,Aws,111
+AI Specialist,Azure,124
+AI Specialist,Computer Vision,122
+AI Specialist,Data Visualization,125
+AI Specialist,Deep Learning,102
+AI Specialist,Docker,94
+AI Specialist,Gcp,123
+AI Specialist,Git,135
+AI Specialist,Hadoop,128
+AI Specialist,Java,119
+AI Specialist,Kubernetes,163
+AI Specialist,Linux,142
+AI Specialist,Mathematics,91
+AI Specialist,Mlops,94
+AI Specialist,Nlp,92
+AI Specialist,Python,241
+AI Specialist,Pytorch,147
+AI Specialist,R,111
+AI Specialist,Scala,144
+AI Specialist,Spark,119
+AI Specialist,Sql,175
+AI Specialist,Statistics,80
+AI Specialist,Tableau,113
+AI Specialist,Tensorflow,178
+Autonomous Systems Engineer,Aws,112
+Autonomous Systems Engineer,Azure,125
+Autonomous Systems Engineer,Computer Vision,106
+Autonomous Systems Engineer,Data Visualization,113
+Autonomous Systems Engineer,Deep Learning,103
+Autonomous Systems Engineer,Docker,82
+Autonomous Systems Engineer,Gcp,114
+Autonomous Systems Engineer,Git,126
+Autonomous Systems Engineer,Hadoop,121
+Autonomous Systems Engineer,Java,135
+Autonomous Systems Engineer,Kubernetes,157
+Autonomous Systems Engineer,Linux,144
+Autonomous Systems Engineer,Mathematics,100
+Autonomous Systems Engineer,Mlops,103
+Autonomous Systems Engineer,Nlp,95
+Autonomous Systems Engineer,Python,238
+Autonomous Systems Engineer,Pytorch,135
+Autonomous Systems Engineer,R,117
+Autonomous Systems Engineer,Scala,130
+Autonomous Systems Engineer,Spark,117
+Autonomous Systems Engineer,Sql,170
+Autonomous Systems Engineer,Statistics,70
+Autonomous Systems Engineer,Tableau,107
+Autonomous Systems Engineer,Tensorflow,150
+Computer Vision Engineer,Aws,118
+Computer Vision Engineer,Azure,110
+Computer Vision Engineer,Computer Vision,121
+Computer Vision Engineer,Data Visualization,120
+Computer Vision Engineer,Deep Learning,108
+Computer Vision Engineer,Docker,100
+Computer Vision Engineer,Gcp,139
+Computer Vision Engineer,Git,132
+Computer Vision Engineer,Hadoop,107
+Computer Vision Engineer,Java,146
+Computer Vision Engineer,Kubernetes,148
+Computer Vision Engineer,Linux,126
+Computer Vision Engineer,Mathematics,90
+Computer Vision Engineer,Mlops,100
+Computer Vision Engineer,Nlp,98
+Computer Vision Engineer,Python,237
+Computer Vision Engineer,Pytorch,164
+Computer Vision Engineer,R,130
+Computer Vision Engineer,Scala,146
+Computer Vision Engineer,Spark,107
+Computer Vision Engineer,Sql,180
+Computer Vision Engineer,Statistics,111
+Computer Vision Engineer,Tableau,115
+Computer Vision Engineer,Tensorflow,181
+Data Analyst,Aws,102
+Data Analyst,Azure,85
+Data Analyst,Computer Vision,99
+Data Analyst,Data Visualization,109
+Data Analyst,Deep Learning,82
+Data Analyst,Docker,81
+Data Analyst,Gcp,113
+Data Analyst,Git,133
+Data Analyst,Hadoop,121
+Data Analyst,Java,135
+Data Analyst,Kubernetes,135
+Data Analyst,Linux,134
+Data Analyst,Mathematics,121
+Data Analyst,Mlops,117
+Data Analyst,Nlp,94
+Data Analyst,Python,217
+Data Analyst,Pytorch,153
+Data Analyst,R,120
+Data Analyst,Scala,135
+Data Analyst,Spark,101
+Data Analyst,Sql,176
+Data Analyst,Statistics,109
+Data Analyst,Tableau,120
+Data Analyst,Tensorflow,154
+Data Engineer,Aws,104
+Data Engineer,Azure,99
+Data Engineer,Computer Vision,110
+Data Engineer,Data Visualization,101
+Data Engineer,Deep Learning,121
+Data Engineer,Docker,106
+Data Engineer,Gcp,120
+Data Engineer,Git,118
+Data Engineer,Hadoop,111
+Data Engineer,Java,138
+Data Engineer,Kubernetes,171
+Data Engineer,Linux,127
+Data Engineer,Mathematics,99
+Data Engineer,Mlops,110
+Data Engineer,Nlp,108
+Data Engineer,Python,226
+Data Engineer,Pytorch,146
+Data Engineer,R,116
+Data Engineer,Scala,141
+Data Engineer,Spark,129
+Data Engineer,Sql,192
+Data Engineer,Statistics,117
+Data Engineer,Tableau,121
+Data Engineer,Tensorflow,156
+Data Scientist,Aws,120
+Data Scientist,Azure,117
+Data Scientist,Computer Vision,99
+Data Scientist,Data Visualization,111
+Data Scientist,Deep Learning,100
+Data Scientist,Docker,100
+Data Scientist,Gcp,120
+Data Scientist,Git,124
+Data Scientist,Hadoop,109
+Data Scientist,Java,131
+Data Scientist,Kubernetes,163
+Data Scientist,Linux,140
+Data Scientist,Mathematics,93
+Data Scientist,Mlops,124
+Data Scientist,Nlp,118
+Data Scientist,Python,229
+Data Scientist,Pytorch,145
+Data Scientist,R,109
+Data Scientist,Scala,142
+Data Scientist,Spark,114
+Data Scientist,Sql,170
+Data Scientist,Statistics,95
+Data Scientist,Tableau,126
+Data Scientist,Tensorflow,155
+Deep Learning Engineer,Aws,116
+Deep Learning Engineer,Azure,125
+Deep Learning Engineer,Computer Vision,125
+Deep Learning Engineer,Data Visualization,109
+Deep Learning Engineer,Deep Learning,112
+Deep Learning Engineer,Docker,93
+Deep Learning Engineer,Gcp,136
+Deep Learning Engineer,Git,136
+Deep Learning Engineer,Hadoop,113
+Deep Learning Engineer,Java,151
+Deep Learning Engineer,Kubernetes,143
+Deep Learning Engineer,Linux,147
+Deep Learning Engineer,Mathematics,93
+Deep Learning Engineer,Mlops,93
+Deep Learning Engineer,Nlp,98
+Deep Learning Engineer,Python,247
+Deep Learning Engineer,Pytorch,132
+Deep Learning Engineer,R,131
+Deep Learning Engineer,Scala,145
+Deep Learning Engineer,Spark,116
+Deep Learning Engineer,Sql,189
+Deep Learning Engineer,Statistics,94
+Deep Learning Engineer,Tableau,133
+Deep Learning Engineer,Tensorflow,169
+Head of AI,Aws,101
+Head of AI,Azure,100
+Head of AI,Computer Vision,111
+Head of AI,Data Visualization,105
+Head of AI,Deep Learning,110
+Head of AI,Docker,85
+Head of AI,Gcp,113
+Head of AI,Git,124
+Head of AI,Hadoop,117
+Head of AI,Java,112
+Head of AI,Kubernetes,147
+Head of AI,Linux,132
+Head of AI,Mathematics,79
+Head of AI,Mlops,96
+Head of AI,Nlp,89
+Head of AI,Python,209
+Head of AI,Pytorch,134
+Head of AI,R,102
+Head of AI,Scala,121
+Head of AI,Spark,108
+Head of AI,Sql,159
+Head of AI,Statistics,82
+Head of AI,Tableau,111
+Head of AI,Tensorflow,153
+ML Ops Engineer,Aws,93
+ML Ops Engineer,Azure,105
+ML Ops Engineer,Computer Vision,102
+ML Ops Engineer,Data Visualization,114
+ML Ops Engineer,Deep Learning,94
+ML Ops Engineer,Docker,85
+ML Ops Engineer,Gcp,126
+ML Ops Engineer,Git,129
+ML Ops Engineer,Hadoop,101
+ML Ops Engineer,Java,104
+ML Ops Engineer,Kubernetes,122
+ML Ops Engineer,Linux,106
+ML Ops Engineer,Mathematics,87
+ML Ops Engineer,Mlops,109
+ML Ops Engineer,Nlp,108
+ML Ops Engineer,Python,211
+ML Ops Engineer,Pytorch,121
+ML Ops Engineer,R,97
+ML Ops Engineer,Scala,117
+ML Ops Engineer,Spark,101
+ML Ops Engineer,Sql,187
+ML Ops Engineer,Statistics,76
+ML Ops Engineer,Tableau,100
+ML Ops Engineer,Tensorflow,142
+Machine Learning Engineer,Aws,118
+Machine Learning Engineer,Azure,118
+Machine Learning Engineer,Computer Vision,120
+Machine Learning Engineer,Data Visualization,129
+Machine Learning Engineer,Deep Learning,112
+Machine Learning Engineer,Docker,118
+Machine Learning Engineer,Gcp,138
+Machine Learning Engineer,Git,128
+Machine Learning Engineer,Hadoop,132
+Machine Learning Engineer,Java,150
+Machine Learning Engineer,Kubernetes,194
+Machine Learning Engineer,Linux,150
+Machine Learning Engineer,Mathematics,110
+Machine Learning Engineer,Mlops,94
+Machine Learning Engineer,Nlp,120
+Machine Learning Engineer,Python,233
+Machine Learning Engineer,Pytorch,149
+Machine Learning Engineer,R,140
+Machine Learning Engineer,Scala,163
+Machine Learning Engineer,Spark,113
+Machine Learning Engineer,Sql,215
+Machine Learning Engineer,Statistics,90
+Machine Learning Engineer,Tableau,131
+Machine Learning Engineer,Tensorflow,155
+Machine Learning Researcher,Aws,89
+Machine Learning Researcher,Azure,115
+Machine Learning Researcher,Computer Vision,108
+Machine Learning Researcher,Data Visualization,110
+Machine Learning Researcher,Deep Learning,102
+Machine Learning Researcher,Docker,99
+Machine Learning Researcher,Gcp,110
+Machine Learning Researcher,Git,127
+Machine Learning Researcher,Hadoop,140
+Machine Learning Researcher,Java,112
+Machine Learning Researcher,Kubernetes,138
+Machine Learning Researcher,Linux,131
+Machine Learning Researcher,Mathematics,100
+Machine Learning Researcher,Mlops,108
+Machine Learning Researcher,Nlp,124
+Machine Learning Researcher,Python,235
+Machine Learning Researcher,Pytorch,129
+Machine Learning Researcher,R,120
+Machine Learning Researcher,Scala,118
+Machine Learning Researcher,Spark,103
+Machine Learning Researcher,Sql,164
+Machine Learning Researcher,Statistics,90
+Machine Learning Researcher,Tableau,101
+Machine Learning Researcher,Tensorflow,152
+NLP Engineer,Aws,106
+NLP Engineer,Azure,94
+NLP Engineer,Computer Vision,121
+NLP Engineer,Data Visualization,108
+NLP Engineer,Deep Learning,90
+NLP Engineer,Docker,104
+NLP Engineer,Gcp,125
+NLP Engineer,Git,118
+NLP Engineer,Hadoop,108
+NLP Engineer,Java,116
+NLP Engineer,Kubernetes,164
+NLP Engineer,Linux,125
+NLP Engineer,Mathematics,89
+NLP Engineer,Mlops,101
+NLP Engineer,Nlp,95
+NLP Engineer,Python,213
+NLP Engineer,Pytorch,141
+NLP Engineer,R,124
+NLP Engineer,Scala,127
+NLP Engineer,Spark,119
+NLP Engineer,Sql,175
+NLP Engineer,Statistics,77
+NLP Engineer,Tableau,122
+NLP Engineer,Tensorflow,152
+Principal Data Scientist,Aws,91
+Principal Data Scientist,Azure,105
+Principal Data Scientist,Computer Vision,124
+Principal Data Scientist,Data Visualization,124
+Principal Data Scientist,Deep Learning,98
+Principal Data Scientist,Docker,86
+Principal Data Scientist,Gcp,128
+Principal Data Scientist,Git,123
+Principal Data Scientist,Hadoop,106
+Principal Data Scientist,Java,125
+Principal Data Scientist,Kubernetes,165
+Principal Data Scientist,Linux,141
+Principal Data Scientist,Mathematics,94
+Principal Data Scientist,Mlops,111
+Principal Data Scientist,Nlp,98
+Principal Data Scientist,Python,240
+Principal Data Scientist,Pytorch,151
+Principal Data Scientist,R,134
+Principal Data Scientist,Scala,148
+Principal Data Scientist,Spark,114
+Principal Data Scientist,Sql,188
+Principal Data Scientist,Statistics,82
+Principal Data Scientist,Tableau,124
+Principal Data Scientist,Tensorflow,157
+Research Scientist,Aws,101
+Research Scientist,Azure,105
+Research Scientist,Computer Vision,110
+Research Scientist,Data Visualization,115
+Research Scientist,Deep Learning,93
+Research Scientist,Docker,95
+Research Scientist,Gcp,122
+Research Scientist,Git,117
+Research Scientist,Hadoop,112
+Research Scientist,Java,137
+Research Scientist,Kubernetes,159
+Research Scientist,Linux,118
+Research Scientist,Mathematics,100
+Research Scientist,Mlops,108
+Research Scientist,Nlp,111
+Research Scientist,Python,212
+Research Scientist,Pytorch,153
+Research Scientist,R,123
+Research Scientist,Scala,136
+Research Scientist,Spark,110
+Research Scientist,Sql,168
+Research Scientist,Statistics,100
+Research Scientist,Tableau,105
+Research Scientist,Tensorflow,124
+Robotics Engineer,Aws,103
+Robotics Engineer,Azure,100
+Robotics Engineer,Computer Vision,106
+Robotics Engineer,Data Visualization,121
+Robotics Engineer,Deep Learning,125
+Robotics Engineer,Docker,96
+Robotics Engineer,Gcp,130
+Robotics Engineer,Git,128
+Robotics Engineer,Hadoop,108
+Robotics Engineer,Java,146
+Robotics Engineer,Kubernetes,158
+Robotics Engineer,Linux,138
+Robotics Engineer,Mathematics,108
+Robotics Engineer,Mlops,109
+Robotics Engineer,Nlp,112
+Robotics Engineer,Python,230
+Robotics Engineer,Pytorch,141
+Robotics Engineer,R,99
+Robotics Engineer,Scala,137
+Robotics Engineer,Spark,128
+Robotics Engineer,Sql,156
+Robotics Engineer,Statistics,83
+Robotics Engineer,Tableau,108
+Robotics Engineer,Tensorflow,150
