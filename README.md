@@ -19,8 +19,8 @@ _or_
 
 ## 📁 Project Structure
 - **/analysis** - Python notebooks or scripts
-- **/data** - Raw and cleaned datasets
 - **/dashboard** - Tableau workbook or image
+- **/data** - Raw and cleaned datasets
 - **README.md** - Project overview
 
 ## 📌 Dataset
