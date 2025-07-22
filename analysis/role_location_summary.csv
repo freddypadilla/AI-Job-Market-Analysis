@@ -1,0 +1,1601 @@
+job_title,company_location,experience_level,avg_salary_usd,job_count
+AI Architect,Australia,EN,74855.8,5
+AI Architect,Australia,EX,212351.43,7
+AI Architect,Australia,MI,89399.92,13
+AI Architect,Australia,SE,116267.0,2
+AI Architect,Austria,EN,63158.0,9
+AI Architect,Austria,EX,178362.25,8
+AI Architect,Austria,MI,79987.71,7
+AI Architect,Austria,SE,107294.0,7
+AI Architect,Canada,EN,60852.25,12
+AI Architect,Canada,EX,213385.56,9
+AI Architect,Canada,MI,88119.0,11
+AI Architect,Canada,SE,118302.55,11
+AI Architect,China,EN,29879.0,7
+AI Architect,China,EX,94732.86,7
+AI Architect,China,MI,45751.62,8
+AI Architect,China,SE,57613.25,8
+AI Architect,Denmark,EN,91646.33,9
+AI Architect,Denmark,EX,246916.46,13
+AI Architect,Denmark,MI,126621.08,13
+AI Architect,Denmark,SE,164861.23,13
+AI Architect,Finland,EN,65228.1,10
+AI Architect,Finland,EX,175064.71,7
+AI Architect,Finland,MI,83758.38,8
+AI Architect,Finland,SE,122084.31,13
+AI Architect,France,EN,59656.14,7
+AI Architect,France,EX,204348.55,11
+AI Architect,France,MI,83734.89,9
+AI Architect,France,SE,114891.0,10
+AI Architect,Germany,EN,60952.62,8
+AI Architect,Germany,EX,205945.71,7
+AI Architect,Germany,MI,100504.7,10
+AI Architect,Germany,SE,131647.0,11
+AI Architect,India,EN,23186.9,10
+AI Architect,India,EX,68748.4,5
+AI Architect,India,MI,31830.77,13
+AI Architect,India,SE,42680.33,6
+AI Architect,Ireland,EN,69163.27,11
+AI Architect,Ireland,EX,183055.71,7
+AI Architect,Ireland,MI,94795.0,6
+AI Architect,Ireland,SE,148794.2,5
+AI Architect,Israel,EN,61508.8,10
+AI Architect,Israel,EX,184532.6,10
+AI Architect,Israel,MI,86113.75,8
+AI Architect,Israel,SE,119918.12,8
+AI Architect,Japan,EN,73165.11,9
+AI Architect,Japan,EX,222111.38,8
+AI Architect,Japan,MI,103830.0,3
+AI Architect,Japan,SE,139865.25,8
+AI Architect,Netherlands,EN,72756.27,11
+AI Architect,Netherlands,EX,224632.43,7
+AI Architect,Netherlands,MI,102415.9,10
+AI Architect,Netherlands,SE,131993.9,10
+AI Architect,Norway,EN,83395.25,4
+AI Architect,Norway,EX,272990.5,10
+AI Architect,Norway,MI,109700.7,10
+AI Architect,Norway,SE,154157.83,6
+AI Architect,Singapore,EN,66958.5,12
+AI Architect,Singapore,EX,216016.88,17
+AI Architect,Singapore,MI,96622.0,10
+AI Architect,Singapore,SE,123696.55,11
+AI Architect,South Korea,EN,56259.0,6
+AI Architect,South Korea,EX,162062.9,10
+AI Architect,South Korea,MI,75677.62,13
+AI Architect,South Korea,SE,113202.75,12
+AI Architect,Sweden,EN,70824.12,8
+AI Architect,Sweden,EX,200458.43,14
+AI Architect,Sweden,MI,84610.0,7
+AI Architect,Sweden,SE,132712.86,7
+AI Architect,Switzerland,EN,95144.94,17
+AI Architect,Switzerland,EX,234598.89,9
+AI Architect,Switzerland,MI,136978.57,14
+AI Architect,Switzerland,SE,185016.19,16
+AI Architect,United Kingdom,EN,73884.93,14
+AI Architect,United Kingdom,EX,208600.25,8
+AI Architect,United Kingdom,MI,105642.44,9
+AI Architect,United Kingdom,SE,141617.2,5
+AI Architect,United States,EN,79818.65,17
+AI Architect,United States,EX,212521.0,9
+AI Architect,United States,MI,117637.53,15
+AI Architect,United States,SE,157500.38,13
+AI Consultant,Australia,EN,62456.89,9
+AI Consultant,Australia,EX,171071.62,13
+AI Consultant,Australia,MI,84605.67,9
+AI Consultant,Australia,SE,150770.75,4
+AI Consultant,Austria,EN,66662.33,9
+AI Consultant,Austria,EX,178547.91,11
+AI Consultant,Austria,MI,87476.45,11
+AI Consultant,Austria,SE,126350.29,7
+AI Consultant,Canada,EN,64120.21,14
+AI Consultant,Canada,EX,170663.3,10
+AI Consultant,Canada,MI,83009.29,7
+AI Consultant,Canada,SE,125847.0,6
+AI Consultant,China,EN,31179.25,8
+AI Consultant,China,EX,94090.17,6
+AI Consultant,China,MI,43833.15,13
+AI Consultant,China,SE,64243.67,12
+AI Consultant,Denmark,EN,88712.57,7
+AI Consultant,Denmark,EX,255954.71,7
+AI Consultant,Denmark,MI,124896.0,5
+AI Consultant,Denmark,SE,157785.88,8
+AI Consultant,Finland,EN,59316.27,11
+AI Consultant,Finland,EX,177079.88,8
+AI Consultant,Finland,MI,87345.12,8
+AI Consultant,Finland,SE,116477.27,11
+AI Consultant,France,EN,63545.27,11
+AI Consultant,France,EX,174568.6,20
+AI Consultant,France,MI,78096.67,6
+AI Consultant,France,SE,129724.22,9
+AI Consultant,Germany,EN,65709.27,11
+AI Consultant,Germany,EX,186538.56,9
+AI Consultant,Germany,MI,87394.5,8
+AI Consultant,Germany,SE,135948.33,12
+AI Consultant,India,EN,23884.29,14
+AI Consultant,India,EX,68688.29,7
+AI Consultant,India,MI,36877.12,8
+AI Consultant,India,SE,47292.22,9
+AI Consultant,Ireland,EN,71264.78,9
+AI Consultant,Ireland,EX,224098.6,10
+AI Consultant,Ireland,MI,83942.0,1
+AI Consultant,Ireland,SE,137908.0,4
+AI Consultant,Israel,EN,62155.0,7
+AI Consultant,Israel,EX,182438.0,7
+AI Consultant,Israel,MI,90864.57,7
+AI Consultant,Israel,SE,132562.83,6
+AI Consultant,Japan,EN,71667.0,12
+AI Consultant,Japan,EX,219356.86,14
+AI Consultant,Japan,MI,103936.45,11
+AI Consultant,Japan,SE,145542.1,10
+AI Consultant,Netherlands,EN,64916.44,9
+AI Consultant,Netherlands,EX,210895.33,9
+AI Consultant,Netherlands,MI,92711.11,9
+AI Consultant,Netherlands,SE,141949.11,9
+AI Consultant,Norway,EN,83732.0,9
+AI Consultant,Norway,EX,276520.78,9
+AI Consultant,Norway,MI,118165.7,10
+AI Consultant,Norway,SE,163217.9,10
+AI Consultant,Singapore,EN,63096.0,9
+AI Consultant,Singapore,EX,203961.45,11
+AI Consultant,Singapore,MI,95699.67,6
+AI Consultant,Singapore,SE,140964.89,9
+AI Consultant,South Korea,EN,52228.9,10
+AI Consultant,South Korea,EX,147924.25,4
+AI Consultant,South Korea,MI,73227.7,10
+AI Consultant,South Korea,SE,105759.0,7
+AI Consultant,Sweden,EN,66536.8,10
+AI Consultant,Sweden,EX,183129.0,6
+AI Consultant,Sweden,MI,101078.0,11
+AI Consultant,Sweden,SE,125652.75,8
+AI Consultant,Switzerland,EN,93513.9,10
+AI Consultant,Switzerland,EX,256638.33,12
+AI Consultant,Switzerland,MI,133381.62,8
+AI Consultant,Switzerland,SE,185895.5,12
+AI Consultant,United Kingdom,EN,62270.62,8
+AI Consultant,United Kingdom,EX,195629.0,8
+AI Consultant,United Kingdom,MI,107455.75,4
+AI Consultant,United Kingdom,SE,140455.89,9
+AI Consultant,United States,EN,74018.89,9
+AI Consultant,United States,EX,213801.1,10
+AI Consultant,United States,MI,109452.88,8
+AI Consultant,United States,SE,143337.25,4
+AI Product Manager,Australia,EN,70100.18,11
+AI Product Manager,Australia,EX,207301.33,9
+AI Product Manager,Australia,MI,90669.83,6
+AI Product Manager,Australia,SE,134278.5,14
+AI Product Manager,Austria,EN,67851.0,5
+AI Product Manager,Austria,EX,192808.91,11
+AI Product Manager,Austria,MI,88204.33,6
+AI Product Manager,Austria,SE,120087.88,8
+AI Product Manager,Canada,EN,63036.6,5
+AI Product Manager,Canada,EX,188357.89,9
+AI Product Manager,Canada,MI,92359.2,5
+AI Product Manager,Canada,SE,118321.83,6
+AI Product Manager,China,EN,30560.06,16
+AI Product Manager,China,EX,96500.5,6
+AI Product Manager,China,MI,40818.57,7
+AI Product Manager,China,SE,65603.17,6
+AI Product Manager,Denmark,EN,88756.18,11
+AI Product Manager,Denmark,EX,269106.4,15
+AI Product Manager,Denmark,MI,118651.4,10
+AI Product Manager,Denmark,SE,156969.14,7
+AI Product Manager,Finland,EN,55177.4,5
+AI Product Manager,Finland,EX,188784.18,11
+AI Product Manager,Finland,MI,88093.83,12
+AI Product Manager,Finland,SE,121512.18,11
+AI Product Manager,France,EN,71009.0,2
+AI Product Manager,France,EX,199701.0,9
+AI Product Manager,France,MI,90358.11,9
+AI Product Manager,France,SE,129634.15,13
+AI Product Manager,Germany,EN,66730.6,10
+AI Product Manager,Germany,EX,199927.56,9
+AI Product Manager,Germany,MI,98892.33,6
+AI Product Manager,Germany,SE,131039.35,17
+AI Product Manager,India,EN,22005.25,8
+AI Product Manager,India,EX,71168.21,14
+AI Product Manager,India,MI,31234.5,6
+AI Product Manager,India,SE,47542.69,13
+AI Product Manager,Ireland,EN,67968.7,10
+AI Product Manager,Ireland,EX,207470.79,14
+AI Product Manager,Ireland,MI,100178.65,17
+AI Product Manager,Ireland,SE,129307.9,10
+AI Product Manager,Israel,EN,65911.75,8
+AI Product Manager,Israel,EX,191061.6,10
+AI Product Manager,Israel,MI,80783.62,8
+AI Product Manager,Israel,SE,119705.0,5
+AI Product Manager,Japan,EN,66777.29,14
+AI Product Manager,Japan,EX,214773.56,16
+AI Product Manager,Japan,MI,107640.3,10
+AI Product Manager,Japan,SE,138521.83,12
+AI Product Manager,Netherlands,EN,69845.55,11
+AI Product Manager,Netherlands,EX,230114.25,8
+AI Product Manager,Netherlands,MI,98982.73,11
+AI Product Manager,Netherlands,SE,144449.23,13
+AI Product Manager,Norway,EN,87734.12,8
+AI Product Manager,Norway,EX,238585.38,13
+AI Product Manager,Norway,MI,121882.4,10
+AI Product Manager,Norway,SE,148021.71,7
+AI Product Manager,Singapore,EN,61317.67,3
+AI Product Manager,Singapore,EX,208994.8,5
+AI Product Manager,Singapore,MI,99721.3,10
+AI Product Manager,Singapore,SE,130333.75,12
+AI Product Manager,South Korea,EN,56284.0,11
+AI Product Manager,South Korea,EX,171927.57,7
+AI Product Manager,South Korea,MI,77447.2,10
+AI Product Manager,South Korea,SE,98257.75,8
+AI Product Manager,Sweden,EN,68493.71,7
+AI Product Manager,Sweden,EX,181672.4,10
+AI Product Manager,Sweden,MI,94260.83,6
+AI Product Manager,Sweden,SE,134008.5,10
+AI Product Manager,Switzerland,EN,106205.11,9
+AI Product Manager,Switzerland,EX,267602.5,10
+AI Product Manager,Switzerland,MI,130310.14,7
+AI Product Manager,Switzerland,SE,191012.91,11
+AI Product Manager,United Kingdom,EN,70037.33,12
+AI Product Manager,United Kingdom,EX,213449.73,15
+AI Product Manager,United Kingdom,MI,105012.0,11
+AI Product Manager,United Kingdom,SE,132055.0,4
+AI Product Manager,United States,EN,81982.58,12
+AI Product Manager,United States,EX,224675.0,11
+AI Product Manager,United States,MI,108763.79,14
+AI Product Manager,United States,SE,144581.33,6
+AI Research Scientist,Australia,EN,67670.2,5
+AI Research Scientist,Australia,EX,186781.11,9
+AI Research Scientist,Australia,MI,93048.33,12
+AI Research Scientist,Australia,SE,137132.27,11
+AI Research Scientist,Austria,EN,67465.0,9
+AI Research Scientist,Austria,EX,199961.4,5
+AI Research Scientist,Austria,MI,87367.29,14
+AI Research Scientist,Austria,SE,125887.8,10
+AI Research Scientist,Canada,EN,64302.08,13
+AI Research Scientist,Canada,EX,199925.11,9
+AI Research Scientist,Canada,MI,87226.22,9
+AI Research Scientist,Canada,SE,129409.5,6
+AI Research Scientist,China,EN,32676.14,7
+AI Research Scientist,China,EX,95317.8,5
+AI Research Scientist,China,MI,44754.38,16
+AI Research Scientist,China,SE,63390.0,6
+AI Research Scientist,Denmark,EN,90052.38,8
+AI Research Scientist,Denmark,EX,289532.75,4
+AI Research Scientist,Denmark,MI,123037.12,8
+AI Research Scientist,Denmark,SE,153510.12,8
+AI Research Scientist,Finland,EN,61368.22,9
+AI Research Scientist,Finland,EX,184732.89,9
+AI Research Scientist,Finland,MI,85207.88,8
+AI Research Scientist,Finland,SE,116063.0,7
+AI Research Scientist,France,EN,61644.73,11
+AI Research Scientist,France,EX,207702.2,5
+AI Research Scientist,France,MI,88040.0,13
+AI Research Scientist,France,SE,130044.0,6
+AI Research Scientist,Germany,EN,67816.12,8
+AI Research Scientist,Germany,EX,187801.08,12
+AI Research Scientist,Germany,MI,87232.22,9
+AI Research Scientist,Germany,SE,121607.33,9
+AI Research Scientist,India,EN,25305.67,9
+AI Research Scientist,India,EX,67198.86,7
+AI Research Scientist,India,MI,32176.0,10
+AI Research Scientist,India,SE,44795.11,9
+AI Research Scientist,Ireland,EN,68932.67,6
+AI Research Scientist,Ireland,EX,196951.44,9
+AI Research Scientist,Ireland,MI,84412.25,8
+AI Research Scientist,Ireland,SE,116038.5,6
+AI Research Scientist,Israel,EN,61583.75,12
+AI Research Scientist,Israel,EX,189002.4,10
+AI Research Scientist,Israel,MI,86189.45,11
+AI Research Scientist,Israel,SE,119125.1,10
+AI Research Scientist,Japan,EN,71107.12,8
+AI Research Scientist,Japan,EX,218651.56,9
+AI Research Scientist,Japan,MI,101610.4,5
+AI Research Scientist,Japan,SE,130358.0,9
+AI Research Scientist,Netherlands,EN,73060.11,9
+AI Research Scientist,Netherlands,EX,193374.13,15
+AI Research Scientist,Netherlands,MI,96748.83,12
+AI Research Scientist,Netherlands,SE,139212.0,7
+AI Research Scientist,Norway,EN,77473.83,6
+AI Research Scientist,Norway,EX,234531.56,9
+AI Research Scientist,Norway,MI,115140.56,9
+AI Research Scientist,Norway,SE,167800.5,10
+AI Research Scientist,Singapore,EN,75696.92,13
+AI Research Scientist,Singapore,EX,212476.89,19
+AI Research Scientist,Singapore,MI,92699.4,5
+AI Research Scientist,Singapore,SE,129846.85,13
+AI Research Scientist,South Korea,EN,60481.5,8
+AI Research Scientist,South Korea,EX,171029.09,11
+AI Research Scientist,South Korea,MI,69781.78,9
+AI Research Scientist,South Korea,SE,105565.15,13
+AI Research Scientist,Sweden,EN,67681.0,6
+AI Research Scientist,Sweden,EX,186509.18,11
+AI Research Scientist,Sweden,MI,94896.25,4
+AI Research Scientist,Sweden,SE,134884.6,10
+AI Research Scientist,Switzerland,EN,93217.75,16
+AI Research Scientist,Switzerland,EX,313370.0,11
+AI Research Scientist,Switzerland,MI,137297.67,6
+AI Research Scientist,Switzerland,SE,174189.5,6
+AI Research Scientist,United Kingdom,EN,60283.12,8
+AI Research Scientist,United Kingdom,EX,225076.23,13
+AI Research Scientist,United Kingdom,MI,102103.62,8
+AI Research Scientist,United Kingdom,SE,138705.33,9
+AI Research Scientist,United States,EN,80396.43,7
+AI Research Scientist,United States,EX,229159.75,4
+AI Research Scientist,United States,MI,103217.78,9
+AI Research Scientist,United States,SE,143365.5,10
+AI Software Engineer,Australia,EN,67218.64,11
+AI Software Engineer,Australia,EX,215558.71,7
+AI Software Engineer,Australia,MI,82781.25,4
+AI Software Engineer,Australia,SE,137014.57,7
+AI Software Engineer,Austria,EN,62291.33,6
+AI Software Engineer,Austria,EX,185382.43,7
+AI Software Engineer,Austria,MI,80131.43,7
+AI Software Engineer,Austria,SE,123922.22,9
+AI Software Engineer,Canada,EN,57175.12,8
+AI Software Engineer,Canada,EX,190839.92,13
+AI Software Engineer,Canada,MI,85236.11,9
+AI Software Engineer,Canada,SE,139016.88,8
+AI Software Engineer,China,EN,30357.0,5
+AI Software Engineer,China,EX,87007.08,12
+AI Software Engineer,China,MI,41204.29,7
+AI Software Engineer,China,SE,62211.64,11
+AI Software Engineer,Denmark,EN,83015.82,11
+AI Software Engineer,Denmark,EX,252217.7,10
+AI Software Engineer,Denmark,MI,115669.12,8
+AI Software Engineer,Denmark,SE,154169.86,7
+AI Software Engineer,Finland,EN,69138.43,7
+AI Software Engineer,Finland,EX,185483.43,14
+AI Software Engineer,Finland,MI,88597.0,8
+AI Software Engineer,Finland,SE,121858.22,9
+AI Software Engineer,France,EN,57664.0,6
+AI Software Engineer,France,EX,169730.71,7
+AI Software Engineer,France,MI,82503.12,8
+AI Software Engineer,France,SE,118086.71,14
+AI Software Engineer,Germany,EN,67786.27,11
+AI Software Engineer,Germany,EX,183489.44,9
+AI Software Engineer,Germany,MI,93522.0,8
+AI Software Engineer,Germany,SE,128733.17,6
+AI Software Engineer,India,EN,21956.29,7
+AI Software Engineer,India,EX,73170.89,9
+AI Software Engineer,India,MI,32573.54,13
+AI Software Engineer,India,SE,55221.67,3
+AI Software Engineer,Ireland,EN,63294.0,9
+AI Software Engineer,Ireland,EX,210941.25,8
+AI Software Engineer,Ireland,MI,95097.64,11
+AI Software Engineer,Ireland,SE,129300.4,5
+AI Software Engineer,Israel,EN,58367.5,10
+AI Software Engineer,Israel,EX,185786.75,12
+AI Software Engineer,Israel,MI,85014.29,7
+AI Software Engineer,Israel,SE,122720.6,5
+AI Software Engineer,Japan,EN,73081.1,10
+AI Software Engineer,Japan,EX,210440.45,11
+AI Software Engineer,Japan,MI,98725.67,9
+AI Software Engineer,Japan,SE,144856.73,11
+AI Software Engineer,Netherlands,EN,69384.14,7
+AI Software Engineer,Netherlands,EX,226817.0,3
+AI Software Engineer,Netherlands,MI,100946.25,12
+AI Software Engineer,Netherlands,SE,147337.18,11
+AI Software Engineer,Norway,EN,89650.44,16
+AI Software Engineer,Norway,EX,262122.29,7
+AI Software Engineer,Norway,MI,118902.31,13
+AI Software Engineer,Norway,SE,161888.67,6
+AI Software Engineer,Singapore,EN,73148.23,13
+AI Software Engineer,Singapore,EX,208364.14,7
+AI Software Engineer,Singapore,MI,102628.25,12
+AI Software Engineer,Singapore,SE,130310.29,7
+AI Software Engineer,South Korea,EN,50787.57,7
+AI Software Engineer,South Korea,EX,162514.4,15
+AI Software Engineer,South Korea,MI,73192.88,8
+AI Software Engineer,South Korea,SE,106281.0,12
+AI Software Engineer,Sweden,EN,61095.33,3
+AI Software Engineer,Sweden,EX,201221.83,12
+AI Software Engineer,Sweden,MI,93839.5,6
+AI Software Engineer,Sweden,SE,135031.8,10
+AI Software Engineer,Switzerland,EN,102046.33,15
+AI Software Engineer,Switzerland,EX,287556.9,10
+AI Software Engineer,Switzerland,MI,118857.82,11
+AI Software Engineer,Switzerland,SE,186594.44,9
+AI Software Engineer,United Kingdom,EN,65463.54,13
+AI Software Engineer,United Kingdom,EX,203218.62,8
+AI Software Engineer,United Kingdom,MI,83835.86,7
+AI Software Engineer,United Kingdom,SE,139131.64,11
+AI Software Engineer,United States,EN,87334.25,16
+AI Software Engineer,United States,EX,251645.0,11
+AI Software Engineer,United States,MI,108344.5,8
+AI Software Engineer,United States,SE,138325.4,10
+AI Specialist,Australia,EN,59900.5,4
+AI Specialist,Australia,EX,199271.0,8
+AI Specialist,Australia,MI,89761.15,13
+AI Specialist,Australia,SE,127306.18,11
+AI Specialist,Austria,EN,62107.0,6
+AI Specialist,Austria,EX,167046.43,7
+AI Specialist,Austria,MI,85985.5,8
+AI Specialist,Austria,SE,113361.09,11
+AI Specialist,Canada,EN,64020.78,9
+AI Specialist,Canada,EX,185443.07,14
+AI Specialist,Canada,MI,87926.81,16
+AI Specialist,Canada,SE,114288.38,8
+AI Specialist,China,EN,28459.67,9
+AI Specialist,China,EX,96816.62,13
+AI Specialist,China,MI,47536.57,7
+AI Specialist,China,SE,56268.67,9
+AI Specialist,Denmark,EN,90693.38,13
+AI Specialist,Denmark,EX,211507.8,5
+AI Specialist,Denmark,MI,120776.17,6
+AI Specialist,Denmark,SE,169870.31,16
+AI Specialist,Finland,EN,57399.8,5
+AI Specialist,Finland,EX,158945.67,6
+AI Specialist,Finland,MI,76404.43,7
+AI Specialist,Finland,SE,129053.91,11
+AI Specialist,France,EN,64079.7,10
+AI Specialist,France,EX,197447.57,7
+AI Specialist,France,MI,88523.0,8
+AI Specialist,France,SE,115456.6,5
+AI Specialist,Germany,EN,70462.44,9
+AI Specialist,Germany,EX,215238.18,11
+AI Specialist,Germany,MI,90004.67,12
+AI Specialist,Germany,SE,126889.44,9
+AI Specialist,India,EN,24730.73,15
+AI Specialist,India,EX,66046.92,13
+AI Specialist,India,MI,33618.5,10
+AI Specialist,India,SE,46234.79,14
+AI Specialist,Ireland,EN,62820.08,13
+AI Specialist,Ireland,EX,208251.3,20
+AI Specialist,Ireland,MI,96592.73,11
+AI Specialist,Ireland,SE,120472.83,6
+AI Specialist,Israel,EN,61971.83,12
+AI Specialist,Israel,EX,201688.38,8
+AI Specialist,Israel,MI,87428.91,11
+AI Specialist,Israel,SE,119822.42,12
+AI Specialist,Japan,EN,66826.44,9
+AI Specialist,Japan,EX,193489.7,10
+AI Specialist,Japan,MI,95159.14,7
+AI Specialist,Japan,SE,138104.81,16
+AI Specialist,Netherlands,EN,70427.91,11
+AI Specialist,Netherlands,EX,215714.58,12
+AI Specialist,Netherlands,MI,101643.5,8
+AI Specialist,Netherlands,SE,132959.0,5
+AI Specialist,Norway,EN,86914.38,8
+AI Specialist,Norway,EX,278604.9,10
+AI Specialist,Norway,MI,118807.71,14
+AI Specialist,Norway,SE,181213.86,14
+AI Specialist,Singapore,EN,68490.3,10
+AI Specialist,Singapore,EX,228023.33,6
+AI Specialist,Singapore,MI,103185.5,2
+AI Specialist,Singapore,SE,126741.43,7
+AI Specialist,South Korea,EN,51006.25,4
+AI Specialist,South Korea,EX,161660.0,7
+AI Specialist,South Korea,MI,77069.58,12
+AI Specialist,South Korea,SE,100324.12,16
+AI Specialist,Sweden,EN,66806.9,10
+AI Specialist,Sweden,EX,183748.0,5
+AI Specialist,Sweden,MI,94202.64,11
+AI Specialist,Sweden,SE,134760.8,15
+AI Specialist,Switzerland,EN,104286.0,8
+AI Specialist,Switzerland,EX,277212.6,10
+AI Specialist,Switzerland,MI,140958.75,4
+AI Specialist,Switzerland,SE,196181.3,10
+AI Specialist,United Kingdom,EN,73223.0,7
+AI Specialist,United Kingdom,EX,197206.86,14
+AI Specialist,United Kingdom,MI,101799.44,9
+AI Specialist,United Kingdom,SE,127107.0,10
+AI Specialist,United States,EN,71506.55,11
+AI Specialist,United States,EX,244865.88,8
+AI Specialist,United States,MI,106457.75,4
+AI Specialist,United States,SE,164393.83,12
+Autonomous Systems Engineer,Australia,EN,77649.25,4
+Autonomous Systems Engineer,Australia,EX,201521.57,7
+Autonomous Systems Engineer,Australia,MI,110086.25,4
+Autonomous Systems Engineer,Australia,SE,128517.06,16
+Autonomous Systems Engineer,Austria,EN,63733.73,11
+Autonomous Systems Engineer,Austria,EX,185634.43,14
+Autonomous Systems Engineer,Austria,MI,94151.29,7
+Autonomous Systems Engineer,Austria,SE,128100.4,5
+Autonomous Systems Engineer,Canada,EN,60432.78,9
+Autonomous Systems Engineer,Canada,EX,186511.8,10
+Autonomous Systems Engineer,Canada,MI,82808.0,11
+Autonomous Systems Engineer,Canada,SE,110304.14,14
+Autonomous Systems Engineer,China,EN,31265.36,11
+Autonomous Systems Engineer,China,EX,102809.4,5
+Autonomous Systems Engineer,China,MI,46932.58,12
+Autonomous Systems Engineer,China,SE,57995.21,19
+Autonomous Systems Engineer,Denmark,EN,79372.6,10
+Autonomous Systems Engineer,Denmark,EX,236557.88,8
+Autonomous Systems Engineer,Denmark,MI,114445.0,9
+Autonomous Systems Engineer,Denmark,SE,180779.86,7
+Autonomous Systems Engineer,Finland,EN,68680.67,12
+Autonomous Systems Engineer,Finland,EX,194354.43,7
+Autonomous Systems Engineer,Finland,MI,90832.82,11
+Autonomous Systems Engineer,Finland,SE,125708.6,5
+Autonomous Systems Engineer,France,EN,66108.38,8
+Autonomous Systems Engineer,France,EX,203764.83,6
+Autonomous Systems Engineer,France,MI,83547.2,10
+Autonomous Systems Engineer,France,SE,134440.0,5
+Autonomous Systems Engineer,Germany,EN,64657.57,14
+Autonomous Systems Engineer,Germany,EX,168251.88,8
+Autonomous Systems Engineer,Germany,MI,88205.64,11
+Autonomous Systems Engineer,Germany,SE,129510.46,13
+Autonomous Systems Engineer,India,EN,23292.71,7
+Autonomous Systems Engineer,India,EX,69275.12,8
+Autonomous Systems Engineer,India,MI,34319.36,14
+Autonomous Systems Engineer,India,SE,46258.88,8
+Autonomous Systems Engineer,Ireland,EN,65854.0,11
+Autonomous Systems Engineer,Ireland,EX,188322.88,8
+Autonomous Systems Engineer,Ireland,MI,94751.8,5
+Autonomous Systems Engineer,Ireland,SE,123058.43,7
+Autonomous Systems Engineer,Israel,EN,67458.86,14
+Autonomous Systems Engineer,Israel,EX,186088.75,12
+Autonomous Systems Engineer,Israel,MI,92328.33,6
+Autonomous Systems Engineer,Israel,SE,130615.57,7
+Autonomous Systems Engineer,Japan,EN,60153.22,9
+Autonomous Systems Engineer,Japan,EX,213441.18,11
+Autonomous Systems Engineer,Japan,MI,96807.58,12
+Autonomous Systems Engineer,Japan,SE,140530.0,13
+Autonomous Systems Engineer,Netherlands,EN,78058.44,9
+Autonomous Systems Engineer,Netherlands,EX,191377.25,4
+Autonomous Systems Engineer,Netherlands,MI,101207.0,10
+Autonomous Systems Engineer,Netherlands,SE,133201.88,8
+Autonomous Systems Engineer,Norway,EN,95380.8,5
+Autonomous Systems Engineer,Norway,EX,256206.5,8
+Autonomous Systems Engineer,Norway,MI,128869.2,10
+Autonomous Systems Engineer,Norway,SE,161513.0,9
+Autonomous Systems Engineer,Singapore,EN,73649.0,9
+Autonomous Systems Engineer,Singapore,EX,193453.6,5
+Autonomous Systems Engineer,Singapore,MI,97377.44,9
+Autonomous Systems Engineer,Singapore,SE,128861.2,10
+Autonomous Systems Engineer,South Korea,EN,53213.33,9
+Autonomous Systems Engineer,South Korea,EX,169313.0,9
+Autonomous Systems Engineer,South Korea,MI,78404.22,9
+Autonomous Systems Engineer,South Korea,SE,111698.33,9
+Autonomous Systems Engineer,Sweden,EN,64577.67,9
+Autonomous Systems Engineer,Sweden,EX,178588.17,6
+Autonomous Systems Engineer,Sweden,MI,90594.42,12
+Autonomous Systems Engineer,Sweden,SE,135141.12,8
+Autonomous Systems Engineer,Switzerland,EN,86226.2,5
+Autonomous Systems Engineer,Switzerland,EX,320210.9,10
+Autonomous Systems Engineer,Switzerland,MI,122226.69,13
+Autonomous Systems Engineer,Switzerland,SE,191881.1,10
+Autonomous Systems Engineer,United Kingdom,EN,71697.0,8
+Autonomous Systems Engineer,United Kingdom,EX,221018.75,12
+Autonomous Systems Engineer,United Kingdom,MI,99413.45,11
+Autonomous Systems Engineer,United Kingdom,SE,149954.25,8
+Autonomous Systems Engineer,United States,EN,80554.83,18
+Autonomous Systems Engineer,United States,EX,237505.85,13
+Autonomous Systems Engineer,United States,MI,110673.0,7
+Autonomous Systems Engineer,United States,SE,156441.72,18
+Computer Vision Engineer,Australia,EN,68127.46,13
+Computer Vision Engineer,Australia,EX,205141.17,12
+Computer Vision Engineer,Australia,MI,89497.29,7
+Computer Vision Engineer,Australia,SE,146634.5,6
+Computer Vision Engineer,Austria,EN,59365.78,9
+Computer Vision Engineer,Austria,EX,173735.09,11
+Computer Vision Engineer,Austria,MI,88482.57,14
+Computer Vision Engineer,Austria,SE,130251.89,9
+Computer Vision Engineer,Canada,EN,62275.14,7
+Computer Vision Engineer,Canada,EX,181088.53,15
+Computer Vision Engineer,Canada,MI,89971.19,16
+Computer Vision Engineer,Canada,SE,119624.42,12
+Computer Vision Engineer,China,EN,33228.0,8
+Computer Vision Engineer,China,EX,83969.5,12
+Computer Vision Engineer,China,MI,43267.4,10
+Computer Vision Engineer,China,SE,56540.38,13
+Computer Vision Engineer,Denmark,EN,90853.0,11
+Computer Vision Engineer,Denmark,EX,229905.73,11
+Computer Vision Engineer,Denmark,MI,128935.92,13
+Computer Vision Engineer,Denmark,SE,172427.8,5
+Computer Vision Engineer,Finland,EN,64264.0,6
+Computer Vision Engineer,Finland,EX,163081.85,13
+Computer Vision Engineer,Finland,MI,86809.62,8
+Computer Vision Engineer,Finland,SE,125891.71,7
+Computer Vision Engineer,France,EN,58893.69,13
+Computer Vision Engineer,France,EX,177069.56,9
+Computer Vision Engineer,France,MI,86198.31,13
+Computer Vision Engineer,France,SE,120388.38,13
+Computer Vision Engineer,Germany,EN,73104.29,7
+Computer Vision Engineer,Germany,EX,183643.0,6
+Computer Vision Engineer,Germany,MI,95177.78,9
+Computer Vision Engineer,Germany,SE,133527.62,8
+Computer Vision Engineer,India,EN,22106.11,9
+Computer Vision Engineer,India,EX,66549.57,7
+Computer Vision Engineer,India,MI,32288.86,7
+Computer Vision Engineer,India,SE,45993.4,5
+Computer Vision Engineer,Ireland,EN,65775.5,10
+Computer Vision Engineer,Ireland,EX,205375.17,6
+Computer Vision Engineer,Ireland,MI,93008.08,13
+Computer Vision Engineer,Ireland,SE,133885.89,9
+Computer Vision Engineer,Israel,EN,57810.57,7
+Computer Vision Engineer,Israel,EX,196942.64,11
+Computer Vision Engineer,Israel,MI,93037.43,7
+Computer Vision Engineer,Israel,SE,126322.08,12
+Computer Vision Engineer,Japan,EN,76396.14,7
+Computer Vision Engineer,Japan,EX,216814.27,11
+Computer Vision Engineer,Japan,MI,102915.22,9
+Computer Vision Engineer,Japan,SE,128257.25,8
+Computer Vision Engineer,Netherlands,EN,63061.45,11
+Computer Vision Engineer,Netherlands,EX,230802.08,12
+Computer Vision Engineer,Netherlands,MI,96529.64,11
+Computer Vision Engineer,Netherlands,SE,140549.43,14
+Computer Vision Engineer,Norway,EN,86727.4,5
+Computer Vision Engineer,Norway,EX,244080.17,12
+Computer Vision Engineer,Norway,MI,109218.91,11
+Computer Vision Engineer,Norway,SE,168675.62,8
+Computer Vision Engineer,Singapore,EN,60030.67,12
+Computer Vision Engineer,Singapore,EX,223611.29,7
+Computer Vision Engineer,Singapore,MI,99985.09,11
+Computer Vision Engineer,Singapore,SE,139628.9,10
+Computer Vision Engineer,South Korea,EN,51948.5,8
+Computer Vision Engineer,South Korea,EX,156542.14,7
+Computer Vision Engineer,South Korea,MI,80020.5,14
+Computer Vision Engineer,South Korea,SE,105899.64,11
+Computer Vision Engineer,Sweden,EN,57851.71,7
+Computer Vision Engineer,Sweden,EX,211180.75,8
+Computer Vision Engineer,Sweden,MI,92360.82,11
+Computer Vision Engineer,Sweden,SE,119115.5,2
+Computer Vision Engineer,Switzerland,EN,91977.5,10
+Computer Vision Engineer,Switzerland,EX,269692.22,9
+Computer Vision Engineer,Switzerland,MI,123948.54,13
+Computer Vision Engineer,Switzerland,SE,199599.6,5
+Computer Vision Engineer,United Kingdom,EN,71323.5,12
+Computer Vision Engineer,United Kingdom,EX,208365.75,8
+Computer Vision Engineer,United Kingdom,MI,93191.92,13
+Computer Vision Engineer,United Kingdom,SE,143288.22,9
+Computer Vision Engineer,United States,EN,80128.3,10
+Computer Vision Engineer,United States,EX,241619.26,19
+Computer Vision Engineer,United States,MI,106679.73,11
+Computer Vision Engineer,United States,SE,138527.0,5
+Data Analyst,Australia,EN,67583.64,11
+Data Analyst,Australia,EX,187819.6,5
+Data Analyst,Australia,MI,81796.4,5
+Data Analyst,Australia,SE,124695.71,7
+Data Analyst,Austria,EN,66408.5,8
+Data Analyst,Austria,EX,180794.11,9
+Data Analyst,Austria,MI,83509.5,14
+Data Analyst,Austria,SE,114992.8,5
+Data Analyst,Canada,EN,64445.54,13
+Data Analyst,Canada,EX,202144.33,6
+Data Analyst,Canada,MI,83457.5,6
+Data Analyst,Canada,SE,119636.75,8
+Data Analyst,China,EN,33401.25,16
+Data Analyst,China,EX,112173.36,11
+Data Analyst,China,MI,41108.0,14
+Data Analyst,China,SE,67266.14,7
+Data Analyst,Denmark,EN,96211.88,8
+Data Analyst,Denmark,EX,259844.38,13
+Data Analyst,Denmark,MI,121239.0,9
+Data Analyst,Denmark,SE,167705.57,7
+Data Analyst,Finland,EN,57858.22,9
+Data Analyst,Finland,EX,176943.3,10
+Data Analyst,Finland,MI,87804.2,10
+Data Analyst,Finland,SE,122021.11,9
+Data Analyst,France,EN,64770.67,9
+Data Analyst,France,EX,165570.9,10
+Data Analyst,France,MI,79370.38,8
+Data Analyst,France,SE,126819.5,8
+Data Analyst,Germany,EN,67765.38,8
+Data Analyst,Germany,EX,195047.89,9
+Data Analyst,Germany,MI,92347.42,12
+Data Analyst,Germany,SE,134883.14,7
+Data Analyst,India,EN,24614.6,10
+Data Analyst,India,EX,72066.82,11
+Data Analyst,India,MI,32428.42,12
+Data Analyst,India,SE,44618.88,8
+Data Analyst,Ireland,EN,68455.42,12
+Data Analyst,Ireland,EX,205072.27,11
+Data Analyst,Ireland,MI,88182.8,5
+Data Analyst,Ireland,SE,131919.67,6
+Data Analyst,Israel,EN,63632.83,12
+Data Analyst,Israel,EX,194841.57,7
+Data Analyst,Israel,MI,86772.92,13
+Data Analyst,Israel,SE,120392.08,13
+Data Analyst,Japan,EN,72885.57,7
+Data Analyst,Japan,EX,181181.17,6
+Data Analyst,Japan,MI,104312.7,10
+Data Analyst,Japan,SE,137755.29,7
+Data Analyst,Netherlands,EN,77018.18,11
+Data Analyst,Netherlands,EX,183884.0,7
+Data Analyst,Netherlands,MI,108695.25,8
+Data Analyst,Netherlands,SE,133851.25,12
+Data Analyst,Norway,EN,81751.83,6
+Data Analyst,Norway,EX,288179.4,10
+Data Analyst,Norway,MI,110971.1,10
+Data Analyst,Norway,SE,166096.18,11
+Data Analyst,Singapore,EN,66448.67,9
+Data Analyst,Singapore,EX,189991.57,7
+Data Analyst,Singapore,MI,96644.44,9
+Data Analyst,Singapore,SE,129103.86,7
+Data Analyst,South Korea,EN,51559.22,9
+Data Analyst,South Korea,EX,152395.07,14
+Data Analyst,South Korea,MI,75880.0,11
+Data Analyst,South Korea,SE,112189.55,11
+Data Analyst,Sweden,EN,69132.25,8
+Data Analyst,Sweden,EX,188753.25,12
+Data Analyst,Sweden,MI,92883.43,7
+Data Analyst,Sweden,SE,128726.46,13
+Data Analyst,Switzerland,EN,95994.57,7
+Data Analyst,Switzerland,EX,306769.75,4
+Data Analyst,Switzerland,MI,129832.0,9
+Data Analyst,Switzerland,SE,175777.0,8
+Data Analyst,United Kingdom,EN,69395.2,10
+Data Analyst,United Kingdom,EX,234459.14,7
+Data Analyst,United Kingdom,MI,98130.5,8
+Data Analyst,United Kingdom,SE,131220.56,9
+Data Analyst,United States,EN,80488.57,7
+Data Analyst,United States,EX,225332.86,14
+Data Analyst,United States,MI,110241.9,10
+Data Analyst,United States,SE,152630.62,8
+Data Engineer,Australia,EN,61779.57,7
+Data Engineer,Australia,EX,186785.12,8
+Data Engineer,Australia,MI,88489.29,7
+Data Engineer,Australia,SE,138589.43,14
+Data Engineer,Austria,EN,65068.64,11
+Data Engineer,Austria,EX,193958.0,12
+Data Engineer,Austria,MI,80451.43,7
+Data Engineer,Austria,SE,125355.73,11
+Data Engineer,Canada,EN,64784.4,5
+Data Engineer,Canada,EX,189961.31,13
+Data Engineer,Canada,MI,84797.89,9
+Data Engineer,Canada,SE,120471.7,10
+Data Engineer,China,EN,27463.33,3
+Data Engineer,China,EX,102441.5,10
+Data Engineer,China,MI,40737.0,10
+Data Engineer,China,SE,55980.0,8
+Data Engineer,Denmark,EN,85707.25,8
+Data Engineer,Denmark,EX,252761.3,10
+Data Engineer,Denmark,MI,119552.18,11
+Data Engineer,Denmark,SE,175114.31,13
+Data Engineer,Finland,EN,65376.62,8
+Data Engineer,Finland,EX,210646.23,13
+Data Engineer,Finland,MI,86585.67,9
+Data Engineer,Finland,SE,123200.57,14
+Data Engineer,France,EN,58896.43,7
+Data Engineer,France,EX,190676.1,10
+Data Engineer,France,MI,88795.57,7
+Data Engineer,France,SE,106624.75,8
+Data Engineer,Germany,EN,68144.56,9
+Data Engineer,Germany,EX,194437.5,16
+Data Engineer,Germany,MI,93833.31,13
+Data Engineer,Germany,SE,128467.19,16
+Data Engineer,India,EN,26386.36,11
+Data Engineer,India,EX,76239.5,12
+Data Engineer,India,MI,31203.2,5
+Data Engineer,India,SE,42398.0,10
+Data Engineer,Ireland,EN,65553.0,2
+Data Engineer,Ireland,EX,211256.75,8
+Data Engineer,Ireland,MI,98428.0,11
+Data Engineer,Ireland,SE,121140.0,15
+Data Engineer,Israel,EN,61346.17,6
+Data Engineer,Israel,EX,176720.14,7
+Data Engineer,Israel,MI,85325.83,6
+Data Engineer,Israel,SE,122736.0,6
+Data Engineer,Japan,EN,76413.2,10
+Data Engineer,Japan,EX,216685.44,9
+Data Engineer,Japan,MI,94453.12,8
+Data Engineer,Japan,SE,133143.75,8
+Data Engineer,Netherlands,EN,71908.18,11
+Data Engineer,Netherlands,EX,239302.83,6
+Data Engineer,Netherlands,MI,90061.75,8
+Data Engineer,Netherlands,SE,126823.22,9
+Data Engineer,Norway,EN,83362.78,9
+Data Engineer,Norway,EX,252236.45,11
+Data Engineer,Norway,MI,131495.0,7
+Data Engineer,Norway,SE,170149.62,13
+Data Engineer,Singapore,EN,73811.67,15
+Data Engineer,Singapore,EX,246937.22,9
+Data Engineer,Singapore,MI,104792.0,11
+Data Engineer,Singapore,SE,127678.31,13
+Data Engineer,South Korea,EN,62854.0,12
+Data Engineer,South Korea,EX,176513.0,4
+Data Engineer,South Korea,MI,68459.22,9
+Data Engineer,South Korea,SE,106354.3,10
+Data Engineer,Sweden,EN,71831.2,5
+Data Engineer,Sweden,EX,210158.0,8
+Data Engineer,Sweden,MI,93985.62,13
+Data Engineer,Sweden,SE,128754.0,9
+Data Engineer,Switzerland,EN,99148.71,14
+Data Engineer,Switzerland,EX,277774.18,17
+Data Engineer,Switzerland,MI,127043.54,13
+Data Engineer,Switzerland,SE,182870.89,9
+Data Engineer,United Kingdom,EN,68441.14,7
+Data Engineer,United Kingdom,EX,201496.27,11
+Data Engineer,United Kingdom,MI,99813.0,7
+Data Engineer,United Kingdom,SE,143976.67,9
+Data Engineer,United States,EN,81458.29,7
+Data Engineer,United States,EX,223819.93,14
+Data Engineer,United States,MI,112057.83,6
+Data Engineer,United States,SE,141448.0,12
+Data Scientist,Australia,EN,65341.57,7
+Data Scientist,Australia,EX,210916.14,7
+Data Scientist,Australia,MI,86512.67,9
+Data Scientist,Australia,SE,141052.3,10
+Data Scientist,Austria,EN,69270.0,5
+Data Scientist,Austria,EX,200797.77,13
+Data Scientist,Austria,MI,88316.2,5
+Data Scientist,Austria,SE,112399.08,12
+Data Scientist,Canada,EN,62546.0,18
+Data Scientist,Canada,EX,187799.67,9
+Data Scientist,Canada,MI,92602.89,9
+Data Scientist,Canada,SE,127100.12,8
+Data Scientist,China,EN,32548.29,7
+Data Scientist,China,EX,92160.55,11
+Data Scientist,China,MI,40047.5,10
+Data Scientist,China,SE,64921.73,11
+Data Scientist,Denmark,EN,89929.5,4
+Data Scientist,Denmark,EX,246689.75,8
+Data Scientist,Denmark,MI,120599.0,8
+Data Scientist,Denmark,SE,160351.18,11
+Data Scientist,Finland,EN,59680.2,15
+Data Scientist,Finland,EX,178481.22,9
+Data Scientist,Finland,MI,91498.38,8
+Data Scientist,Finland,SE,119268.75,8
+Data Scientist,France,EN,62243.11,9
+Data Scientist,France,EX,177957.0,9
+Data Scientist,France,MI,89183.25,8
+Data Scientist,France,SE,129508.71,14
+Data Scientist,Germany,EN,69014.44,9
+Data Scientist,Germany,EX,191770.22,9
+Data Scientist,Germany,MI,92339.2,15
+Data Scientist,Germany,SE,129781.75,8
+Data Scientist,India,EN,27664.5,4
+Data Scientist,India,EX,73661.83,12
+Data Scientist,India,MI,31428.58,12
+Data Scientist,India,SE,47679.0,9
+Data Scientist,Ireland,EN,65251.4,10
+Data Scientist,Ireland,EX,211106.43,14
+Data Scientist,Ireland,MI,98189.33,18
+Data Scientist,Ireland,SE,131322.25,8
+Data Scientist,Israel,EN,64415.67,12
+Data Scientist,Israel,EX,195624.31,13
+Data Scientist,Israel,MI,89067.67,9
+Data Scientist,Israel,SE,126811.08,13
+Data Scientist,Japan,EN,74109.17,6
+Data Scientist,Japan,EX,191465.8,5
+Data Scientist,Japan,MI,92924.89,9
+Data Scientist,Japan,SE,136808.38,8
+Data Scientist,Netherlands,EN,69405.0,9
+Data Scientist,Netherlands,EX,190189.0,8
+Data Scientist,Netherlands,MI,94452.75,12
+Data Scientist,Netherlands,SE,129340.89,9
+Data Scientist,Norway,EN,88290.6,5
+Data Scientist,Norway,EX,270070.67,12
+Data Scientist,Norway,MI,110319.83,6
+Data Scientist,Norway,SE,174884.14,14
+Data Scientist,Singapore,EN,80256.67,3
+Data Scientist,Singapore,EX,226703.71,14
+Data Scientist,Singapore,MI,96054.5,8
+Data Scientist,Singapore,SE,135080.92,13
+Data Scientist,South Korea,EN,57742.88,8
+Data Scientist,South Korea,EX,119046.67,3
+Data Scientist,South Korea,MI,76087.4,10
+Data Scientist,South Korea,SE,103682.5,12
+Data Scientist,Sweden,EN,72325.33,3
+Data Scientist,Sweden,EX,189856.75,8
+Data Scientist,Sweden,MI,95511.5,8
+Data Scientist,Sweden,SE,123973.25,8
+Data Scientist,Switzerland,EN,95600.22,9
+Data Scientist,Switzerland,EX,288358.5,12
+Data Scientist,Switzerland,MI,139963.83,6
+Data Scientist,Switzerland,SE,167871.7,10
+Data Scientist,United Kingdom,EN,73301.5,14
+Data Scientist,United Kingdom,EX,221623.5,10
+Data Scientist,United Kingdom,MI,97757.13,15
+Data Scientist,United Kingdom,SE,136432.71,14
+Data Scientist,United States,EN,74444.29,7
+Data Scientist,United States,EX,246262.8,5
+Data Scientist,United States,MI,112817.36,11
+Data Scientist,United States,SE,155186.83,12
+Deep Learning Engineer,Australia,EN,70023.0,10
+Deep Learning Engineer,Australia,EX,202075.69,16
+Deep Learning Engineer,Australia,MI,103397.58,12
+Deep Learning Engineer,Australia,SE,121553.55,11
+Deep Learning Engineer,Austria,EN,65679.69,13
+Deep Learning Engineer,Austria,EX,184895.92,12
+Deep Learning Engineer,Austria,MI,98537.36,11
+Deep Learning Engineer,Austria,SE,119667.25,8
+Deep Learning Engineer,Canada,EN,61099.44,9
+Deep Learning Engineer,Canada,EX,197945.38,13
+Deep Learning Engineer,Canada,MI,85345.4,10
+Deep Learning Engineer,Canada,SE,122548.23,13
+Deep Learning Engineer,China,EN,32037.47,15
+Deep Learning Engineer,China,EX,87796.88,8
+Deep Learning Engineer,China,MI,43105.44,9
+Deep Learning Engineer,China,SE,60484.0,4
+Deep Learning Engineer,Denmark,EN,85839.08,13
+Deep Learning Engineer,Denmark,EX,240813.2,10
+Deep Learning Engineer,Denmark,MI,119181.69,16
+Deep Learning Engineer,Denmark,SE,172724.0,3
+Deep Learning Engineer,Finland,EN,62419.89,9
+Deep Learning Engineer,Finland,EX,175560.0,4
+Deep Learning Engineer,Finland,MI,93728.67,9
+Deep Learning Engineer,Finland,SE,130240.8,10
+Deep Learning Engineer,France,EN,63478.63,19
+Deep Learning Engineer,France,EX,171440.33,12
+Deep Learning Engineer,France,MI,87776.0,11
+Deep Learning Engineer,France,SE,129020.78,9
+Deep Learning Engineer,Germany,EN,66574.33,3
+Deep Learning Engineer,Germany,EX,189757.4,10
+Deep Learning Engineer,Germany,MI,99519.5,4
+Deep Learning Engineer,Germany,SE,114005.43,7
+Deep Learning Engineer,India,EN,23235.57,7
+Deep Learning Engineer,India,EX,69662.38,8
+Deep Learning Engineer,India,MI,34600.1,10
+Deep Learning Engineer,India,SE,45298.11,9
+Deep Learning Engineer,Ireland,EN,69230.33,12
+Deep Learning Engineer,Ireland,EX,196859.54,13
+Deep Learning Engineer,Ireland,MI,93923.23,13
+Deep Learning Engineer,Ireland,SE,128914.62,13
+Deep Learning Engineer,Israel,EN,67391.17,6
+Deep Learning Engineer,Israel,EX,187433.57,14
+Deep Learning Engineer,Israel,MI,90353.89,9
+Deep Learning Engineer,Israel,SE,123174.94,16
+Deep Learning Engineer,Japan,EN,74388.06,16
+Deep Learning Engineer,Japan,EX,239706.43,7
+Deep Learning Engineer,Japan,MI,95827.71,7
+Deep Learning Engineer,Japan,SE,143281.86,7
+Deep Learning Engineer,Netherlands,EN,69873.6,5
+Deep Learning Engineer,Netherlands,EX,215679.29,17
+Deep Learning Engineer,Netherlands,MI,91005.38,8
+Deep Learning Engineer,Netherlands,SE,137399.92,13
+Deep Learning Engineer,Norway,EN,94229.0,6
+Deep Learning Engineer,Norway,EX,273484.8,10
+Deep Learning Engineer,Norway,MI,116805.88,8
+Deep Learning Engineer,Norway,SE,163375.91,11
+Deep Learning Engineer,Singapore,EN,70246.0,12
+Deep Learning Engineer,Singapore,EX,201478.2,5
+Deep Learning Engineer,Singapore,MI,104198.25,12
+Deep Learning Engineer,Singapore,SE,126836.44,9
+Deep Learning Engineer,South Korea,EN,53184.11,9
+Deep Learning Engineer,South Korea,EX,170248.0,7
+Deep Learning Engineer,South Korea,MI,81728.5,2
+Deep Learning Engineer,South Korea,SE,98935.0,7
+Deep Learning Engineer,Sweden,EN,61294.86,7
+Deep Learning Engineer,Sweden,EX,197622.38,8
+Deep Learning Engineer,Sweden,MI,96062.62,8
+Deep Learning Engineer,Sweden,SE,123520.45,11
+Deep Learning Engineer,Switzerland,EN,98463.0,12
+Deep Learning Engineer,Switzerland,EX,304788.07,15
+Deep Learning Engineer,Switzerland,MI,132264.8,10
+Deep Learning Engineer,Switzerland,SE,183352.25,8
+Deep Learning Engineer,United Kingdom,EN,66747.0,9
+Deep Learning Engineer,United Kingdom,EX,203089.0,17
+Deep Learning Engineer,United Kingdom,MI,111727.5,6
+Deep Learning Engineer,United Kingdom,SE,144543.0,8
+Deep Learning Engineer,United States,EN,75786.93,14
+Deep Learning Engineer,United States,EX,237808.71,7
+Deep Learning Engineer,United States,MI,105239.5,8
+Deep Learning Engineer,United States,SE,164496.0,7
+Head of AI,Australia,EN,74667.71,7
+Head of AI,Australia,EX,237041.0,8
+Head of AI,Australia,MI,93724.8,5
+Head of AI,Australia,SE,126302.9,10
+Head of AI,Austria,EN,56424.2,5
+Head of AI,Austria,EX,167488.93,14
+Head of AI,Austria,MI,84913.2,10
+Head of AI,Austria,SE,122612.0,6
+Head of AI,Canada,EN,60404.77,13
+Head of AI,Canada,EX,165271.33,3
+Head of AI,Canada,MI,82631.57,7
+Head of AI,Canada,SE,120086.8,5
+Head of AI,China,EN,28073.0,6
+Head of AI,China,EX,82180.17,6
+Head of AI,China,MI,47170.71,7
+Head of AI,China,SE,60158.08,12
+Head of AI,Denmark,EN,88677.18,11
+Head of AI,Denmark,EX,250685.55,11
+Head of AI,Denmark,MI,127241.4,5
+Head of AI,Denmark,SE,165888.0,8
+Head of AI,Finland,EN,63522.7,10
+Head of AI,Finland,EX,178780.4,10
+Head of AI,Finland,MI,88636.0,12
+Head of AI,Finland,SE,116406.17,6
+Head of AI,France,EN,62293.82,11
+Head of AI,France,EX,200975.22,9
+Head of AI,France,MI,87435.11,9
+Head of AI,France,SE,126242.83,6
+Head of AI,Germany,EN,64857.33,9
+Head of AI,Germany,EX,204113.89,9
+Head of AI,Germany,MI,85111.25,4
+Head of AI,Germany,SE,144791.38,8
+Head of AI,India,EN,22079.6,5
+Head of AI,India,EX,76748.4,10
+Head of AI,India,MI,37253.4,5
+Head of AI,India,SE,44457.08,12
+Head of AI,Ireland,EN,68190.07,14
+Head of AI,Ireland,EX,182117.0,6
+Head of AI,Ireland,MI,89578.86,7
+Head of AI,Ireland,SE,123719.38,13
+Head of AI,Israel,EN,56612.29,7
+Head of AI,Israel,EX,184945.75,16
+Head of AI,Israel,MI,88266.0,11
+Head of AI,Israel,SE,117642.85,13
+Head of AI,Japan,EN,70289.67,6
+Head of AI,Japan,EX,219921.4,10
+Head of AI,Japan,MI,88021.4,10
+Head of AI,Japan,SE,145789.67,6
+Head of AI,Netherlands,EN,67956.86,7
+Head of AI,Netherlands,EX,214116.08,12
+Head of AI,Netherlands,MI,79386.5,6
+Head of AI,Netherlands,SE,133931.17,6
+Head of AI,Norway,EN,86360.1,10
+Head of AI,Norway,EX,183761.33,3
+Head of AI,Norway,MI,117222.71,17
+Head of AI,Norway,SE,170232.14,7
+Head of AI,Singapore,EN,71951.38,8
+Head of AI,Singapore,EX,229280.83,12
+Head of AI,Singapore,MI,107107.17,6
+Head of AI,Singapore,SE,146160.56,9
+Head of AI,South Korea,EN,50638.62,13
+Head of AI,South Korea,EX,174506.9,10
+Head of AI,South Korea,MI,81779.67,9
+Head of AI,South Korea,SE,114845.31,13
+Head of AI,Sweden,EN,68227.44,9
+Head of AI,Sweden,EX,203338.44,9
+Head of AI,Sweden,MI,83482.7,10
+Head of AI,Sweden,SE,122084.23,13
+Head of AI,Switzerland,EN,97469.5,8
+Head of AI,Switzerland,EX,305432.5,8
+Head of AI,Switzerland,MI,137681.85,13
+Head of AI,Switzerland,SE,176478.14,7
+Head of AI,United Kingdom,EN,76207.44,9
+Head of AI,United Kingdom,EX,200143.25,8
+Head of AI,United Kingdom,MI,100484.93,14
+Head of AI,United Kingdom,SE,142124.0,5
+Head of AI,United States,EN,73707.88,8
+Head of AI,United States,EX,244758.0,4
+Head of AI,United States,MI,111415.6,10
+Head of AI,United States,SE,153310.0,5
+ML Ops Engineer,Australia,EN,65337.83,6
+ML Ops Engineer,Australia,EX,195764.22,9
+ML Ops Engineer,Australia,MI,92629.5,8
+ML Ops Engineer,Australia,SE,123927.25,16
+ML Ops Engineer,Austria,EN,75245.2,5
+ML Ops Engineer,Austria,EX,197001.3,10
+ML Ops Engineer,Austria,MI,88919.36,11
+ML Ops Engineer,Austria,SE,114275.5,8
+ML Ops Engineer,Canada,EN,61991.82,11
+ML Ops Engineer,Canada,EX,176324.5,6
+ML Ops Engineer,Canada,MI,84250.14,14
+ML Ops Engineer,Canada,SE,117047.47,15
+ML Ops Engineer,China,EN,33974.5,2
+ML Ops Engineer,China,EX,97564.56,9
+ML Ops Engineer,China,MI,46822.08,12
+ML Ops Engineer,China,SE,58764.29,7
+ML Ops Engineer,Denmark,EN,90786.56,9
+ML Ops Engineer,Denmark,EX,272488.43,7
+ML Ops Engineer,Denmark,MI,127213.0,10
+ML Ops Engineer,Denmark,SE,160909.67,6
+ML Ops Engineer,Finland,EN,70477.89,9
+ML Ops Engineer,Finland,EX,181105.5,10
+ML Ops Engineer,Finland,MI,94687.0,6
+ML Ops Engineer,Finland,SE,106888.83,6
+ML Ops Engineer,France,EN,65534.64,14
+ML Ops Engineer,France,EX,186279.23,13
+ML Ops Engineer,France,MI,90784.69,13
+ML Ops Engineer,France,SE,132398.75,4
+ML Ops Engineer,Germany,EN,68577.57,7
+ML Ops Engineer,Germany,EX,183759.09,11
+ML Ops Engineer,Germany,MI,90711.29,7
+ML Ops Engineer,Germany,SE,119307.55,11
+ML Ops Engineer,India,EN,24601.2,10
+ML Ops Engineer,India,EX,79352.0,4
+ML Ops Engineer,India,MI,32218.43,7
+ML Ops Engineer,India,SE,47064.78,9
+ML Ops Engineer,Ireland,EN,62407.17,6
+ML Ops Engineer,Ireland,EX,204926.75,8
+ML Ops Engineer,Ireland,MI,88764.33,9
+ML Ops Engineer,Ireland,SE,134226.55,11
+ML Ops Engineer,Israel,EN,65550.9,10
+ML Ops Engineer,Israel,EX,180722.83,6
+ML Ops Engineer,Israel,MI,81993.9,10
+ML Ops Engineer,Israel,SE,119854.5,10
+ML Ops Engineer,Japan,EN,66039.67,6
+ML Ops Engineer,Japan,EX,195086.0,10
+ML Ops Engineer,Japan,MI,86596.67,6
+ML Ops Engineer,Japan,SE,132233.14,7
+ML Ops Engineer,Netherlands,EN,74310.83,6
+ML Ops Engineer,Netherlands,EX,235228.22,9
+ML Ops Engineer,Netherlands,MI,90503.67,9
+ML Ops Engineer,Netherlands,SE,132524.5,8
+ML Ops Engineer,Norway,EN,91319.6,5
+ML Ops Engineer,Norway,EX,275288.88,8
+ML Ops Engineer,Norway,MI,118971.17,12
+ML Ops Engineer,Norway,SE,177644.8,5
+ML Ops Engineer,Singapore,EN,77539.25,4
+ML Ops Engineer,Singapore,EX,208797.56,9
+ML Ops Engineer,Singapore,MI,104864.0,7
+ML Ops Engineer,Singapore,SE,143930.88,8
+ML Ops Engineer,South Korea,EN,49484.62,8
+ML Ops Engineer,South Korea,EX,173188.33,6
+ML Ops Engineer,South Korea,MI,73201.29,7
+ML Ops Engineer,South Korea,SE,113205.23,13
+ML Ops Engineer,Sweden,EN,68309.5,8
+ML Ops Engineer,Sweden,EX,197355.71,14
+ML Ops Engineer,Sweden,MI,103498.43,7
+ML Ops Engineer,Sweden,SE,140312.71,7
+ML Ops Engineer,Switzerland,EN,87283.6,10
+ML Ops Engineer,Switzerland,EX,289870.0,9
+ML Ops Engineer,Switzerland,MI,140506.33,9
+ML Ops Engineer,Switzerland,SE,170261.55,11
+ML Ops Engineer,United Kingdom,EN,77478.56,9
+ML Ops Engineer,United Kingdom,EX,237117.0,8
+ML Ops Engineer,United Kingdom,MI,106701.67,9
+ML Ops Engineer,United Kingdom,SE,134062.25,12
+ML Ops Engineer,United States,EN,76669.12,8
+ML Ops Engineer,United States,EX,249272.1,10
+ML Ops Engineer,United States,MI,93835.8,10
+ML Ops Engineer,United States,SE,147187.33,3
+Machine Learning Engineer,Australia,EN,68224.08,13
+Machine Learning Engineer,Australia,EX,212518.14,7
+Machine Learning Engineer,Australia,MI,91262.5,8
+Machine Learning Engineer,Australia,SE,141454.8,10
+Machine Learning Engineer,Austria,EN,56637.0,8
+Machine Learning Engineer,Austria,EX,216265.25,8
+Machine Learning Engineer,Austria,MI,79917.22,9
+Machine Learning Engineer,Austria,SE,121590.88,8
+Machine Learning Engineer,Canada,EN,57746.67,12
+Machine Learning Engineer,Canada,EX,174448.85,13
+Machine Learning Engineer,Canada,MI,85907.23,13
+Machine Learning Engineer,Canada,SE,122061.0,14
+Machine Learning Engineer,China,EN,27903.44,9
+Machine Learning Engineer,China,EX,89392.0,9
+Machine Learning Engineer,China,MI,41476.62,8
+Machine Learning Engineer,China,SE,60239.12,16
+Machine Learning Engineer,Denmark,EN,78192.09,11
+Machine Learning Engineer,Denmark,EX,263998.71,14
+Machine Learning Engineer,Denmark,MI,127189.11,9
+Machine Learning Engineer,Denmark,SE,150206.0,6
+Machine Learning Engineer,Finland,EN,59508.83,6
+Machine Learning Engineer,Finland,EX,183322.25,8
+Machine Learning Engineer,Finland,MI,79570.6,15
+Machine Learning Engineer,Finland,SE,120372.45,11
+Machine Learning Engineer,France,EN,66710.27,11
+Machine Learning Engineer,France,EX,230352.4,5
+Machine Learning Engineer,France,MI,90528.0,11
+Machine Learning Engineer,France,SE,127829.85,13
+Machine Learning Engineer,Germany,EN,67094.5,14
+Machine Learning Engineer,Germany,EX,208821.09,11
+Machine Learning Engineer,Germany,MI,94170.0,4
+Machine Learning Engineer,Germany,SE,124308.36,11
+Machine Learning Engineer,India,EN,24184.89,9
+Machine Learning Engineer,India,EX,72661.0,3
+Machine Learning Engineer,India,MI,30697.73,11
+Machine Learning Engineer,India,SE,42482.8,10
+Machine Learning Engineer,Ireland,EN,68420.25,12
+Machine Learning Engineer,Ireland,EX,199520.0,9
+Machine Learning Engineer,Ireland,MI,94064.64,14
+Machine Learning Engineer,Ireland,SE,118242.4,5
+Machine Learning Engineer,Israel,EN,63783.2,5
+Machine Learning Engineer,Israel,EX,176563.43,14
+Machine Learning Engineer,Israel,MI,81643.22,9
+Machine Learning Engineer,Israel,SE,113804.2,10
+Machine Learning Engineer,Japan,EN,67954.43,7
+Machine Learning Engineer,Japan,EX,202520.89,9
+Machine Learning Engineer,Japan,MI,94930.5,10
+Machine Learning Engineer,Japan,SE,137554.11,9
+Machine Learning Engineer,Netherlands,EN,72721.25,8
+Machine Learning Engineer,Netherlands,EX,213912.77,13
+Machine Learning Engineer,Netherlands,MI,100811.86,14
+Machine Learning Engineer,Netherlands,SE,136149.5,6
+Machine Learning Engineer,Norway,EN,78837.91,11
+Machine Learning Engineer,Norway,EX,240428.67,9
+Machine Learning Engineer,Norway,MI,121472.75,4
+Machine Learning Engineer,Norway,SE,172984.85,13
+Machine Learning Engineer,Singapore,EN,72584.56,9
+Machine Learning Engineer,Singapore,EX,204345.41,17
+Machine Learning Engineer,Singapore,MI,98356.1,10
+Machine Learning Engineer,Singapore,SE,140519.4,10
+Machine Learning Engineer,South Korea,EN,57111.56,16
+Machine Learning Engineer,South Korea,EX,159101.33,6
+Machine Learning Engineer,South Korea,MI,77122.9,10
+Machine Learning Engineer,South Korea,SE,113221.83,12
+Machine Learning Engineer,Sweden,EN,70047.0,9
+Machine Learning Engineer,Sweden,EX,201702.09,11
+Machine Learning Engineer,Sweden,MI,91838.33,12
+Machine Learning Engineer,Sweden,SE,126350.56,16
+Machine Learning Engineer,Switzerland,EN,94712.92,13
+Machine Learning Engineer,Switzerland,EX,292717.62,13
+Machine Learning Engineer,Switzerland,MI,128185.21,14
+Machine Learning Engineer,Switzerland,SE,193099.09,11
+Machine Learning Engineer,United Kingdom,EN,67065.8,10
+Machine Learning Engineer,United Kingdom,EX,222023.5,14
+Machine Learning Engineer,United Kingdom,MI,97365.4,10
+Machine Learning Engineer,United Kingdom,SE,132223.67,12
+Machine Learning Engineer,United States,EN,79657.55,11
+Machine Learning Engineer,United States,EX,230607.93,14
+Machine Learning Engineer,United States,MI,105742.4,10
+Machine Learning Engineer,United States,SE,156319.6,5
+Machine Learning Researcher,Australia,EN,65947.57,7
+Machine Learning Researcher,Australia,EX,213158.33,15
+Machine Learning Researcher,Australia,MI,88989.0,9
+Machine Learning Researcher,Australia,SE,133222.57,7
+Machine Learning Researcher,Austria,EN,63890.0,8
+Machine Learning Researcher,Austria,EX,174872.38,8
+Machine Learning Researcher,Austria,MI,81218.5,8
+Machine Learning Researcher,Austria,SE,129136.33,6
+Machine Learning Researcher,Canada,EN,66395.14,7
+Machine Learning Researcher,Canada,EX,167374.8,5
+Machine Learning Researcher,Canada,MI,82819.12,8
+Machine Learning Researcher,Canada,SE,129386.12,8
+Machine Learning Researcher,China,EN,32004.8,10
+Machine Learning Researcher,China,EX,94400.45,11
+Machine Learning Researcher,China,MI,43662.17,12
+Machine Learning Researcher,China,SE,62945.5,10
+Machine Learning Researcher,Denmark,EN,87375.87,15
+Machine Learning Researcher,Denmark,EX,252095.64,14
+Machine Learning Researcher,Denmark,MI,126217.17,12
+Machine Learning Researcher,Denmark,SE,169689.5,10
+Machine Learning Researcher,Finland,EN,61855.11,9
+Machine Learning Researcher,Finland,EX,185317.1,10
+Machine Learning Researcher,Finland,MI,86927.75,4
+Machine Learning Researcher,Finland,SE,123537.0,5
+Machine Learning Researcher,France,EN,56034.1,10
+Machine Learning Researcher,France,EX,168508.17,12
+Machine Learning Researcher,France,MI,82501.38,8
+Machine Learning Researcher,France,SE,117427.6,5
+Machine Learning Researcher,Germany,EN,68993.0,4
+Machine Learning Researcher,Germany,EX,197022.4,10
+Machine Learning Researcher,Germany,MI,96233.8,10
+Machine Learning Researcher,Germany,SE,139752.0,10
+Machine Learning Researcher,India,EN,24714.11,9
+Machine Learning Researcher,India,EX,64422.31,13
+Machine Learning Researcher,India,MI,32373.8,5
+Machine Learning Researcher,India,SE,46138.57,7
+Machine Learning Researcher,Ireland,EN,69984.44,9
+Machine Learning Researcher,Ireland,EX,193470.62,8
+Machine Learning Researcher,Ireland,MI,87679.43,7
+Machine Learning Researcher,Ireland,SE,130702.91,11
+Machine Learning Researcher,Israel,EN,61459.82,11
+Machine Learning Researcher,Israel,EX,186933.44,9
+Machine Learning Researcher,Israel,MI,83419.75,8
+Machine Learning Researcher,Israel,SE,123992.67,9
+Machine Learning Researcher,Japan,EN,74284.25,8
+Machine Learning Researcher,Japan,EX,234521.58,12
+Machine Learning Researcher,Japan,MI,99022.0,6
+Machine Learning Researcher,Japan,SE,140094.0,10
+Machine Learning Researcher,Netherlands,EN,72750.91,11
+Machine Learning Researcher,Netherlands,EX,226954.67,9
+Machine Learning Researcher,Netherlands,MI,86999.88,8
+Machine Learning Researcher,Netherlands,SE,142281.67,9
+Machine Learning Researcher,Norway,EN,86564.12,8
+Machine Learning Researcher,Norway,EX,230434.64,11
+Machine Learning Researcher,Norway,MI,112925.4,10
+Machine Learning Researcher,Norway,SE,178608.6,5
+Machine Learning Researcher,Singapore,EN,74140.43,7
+Machine Learning Researcher,Singapore,EX,213155.5,10
+Machine Learning Researcher,Singapore,MI,100620.33,9
+Machine Learning Researcher,Singapore,SE,127533.62,13
+Machine Learning Researcher,South Korea,EN,52401.58,12
+Machine Learning Researcher,South Korea,EX,164008.2,10
+Machine Learning Researcher,South Korea,MI,76045.75,16
+Machine Learning Researcher,South Korea,SE,107242.71,7
+Machine Learning Researcher,Sweden,EN,68873.89,9
+Machine Learning Researcher,Sweden,EX,190777.5,6
+Machine Learning Researcher,Sweden,MI,98640.67,6
+Machine Learning Researcher,Sweden,SE,136940.6,10
+Machine Learning Researcher,Switzerland,EN,89127.22,9
+Machine Learning Researcher,Switzerland,EX,258607.36,14
+Machine Learning Researcher,Switzerland,MI,109617.4,5
+Machine Learning Researcher,Switzerland,SE,175939.64,14
+Machine Learning Researcher,United Kingdom,EN,70499.89,9
+Machine Learning Researcher,United Kingdom,EX,183522.17,6
+Machine Learning Researcher,United Kingdom,MI,97064.33,9
+Machine Learning Researcher,United Kingdom,SE,121561.0,8
+Machine Learning Researcher,United States,EN,79086.22,9
+Machine Learning Researcher,United States,EX,260368.5,6
+Machine Learning Researcher,United States,MI,110076.92,13
+Machine Learning Researcher,United States,SE,151107.82,17
+NLP Engineer,Australia,EN,65440.85,13
+NLP Engineer,Australia,EX,204285.71,7
+NLP Engineer,Australia,MI,93347.4,5
+NLP Engineer,Australia,SE,125989.22,9
+NLP Engineer,Austria,EN,56673.75,8
+NLP Engineer,Austria,EX,196067.75,8
+NLP Engineer,Austria,MI,83594.33,6
+NLP Engineer,Austria,SE,120192.57,7
+NLP Engineer,Canada,EN,65240.11,9
+NLP Engineer,Canada,EX,182411.17,6
+NLP Engineer,Canada,MI,85086.7,10
+NLP Engineer,Canada,SE,121782.29,7
+NLP Engineer,China,EN,31562.75,4
+NLP Engineer,China,EX,93616.62,13
+NLP Engineer,China,MI,42051.75,12
+NLP Engineer,China,SE,61322.75,8
+NLP Engineer,Denmark,EN,83673.0,5
+NLP Engineer,Denmark,EX,250818.1,10
+NLP Engineer,Denmark,MI,122772.71,7
+NLP Engineer,Denmark,SE,166550.56,9
+NLP Engineer,Finland,EN,57043.58,12
+NLP Engineer,Finland,EX,186964.12,8
+NLP Engineer,Finland,MI,85958.6,5
+NLP Engineer,Finland,SE,128197.0,10
+NLP Engineer,France,EN,61701.89,9
+NLP Engineer,France,EX,202978.09,11
+NLP Engineer,France,MI,93982.1,10
+NLP Engineer,France,SE,119850.43,7
+NLP Engineer,Germany,EN,77317.67,6
+NLP Engineer,Germany,EX,208372.75,8
+NLP Engineer,Germany,MI,87774.69,13
+NLP Engineer,Germany,SE,121619.25,8
+NLP Engineer,India,EN,22058.88,8
+NLP Engineer,India,EX,76104.44,9
+NLP Engineer,India,MI,32384.44,9
+NLP Engineer,India,SE,46352.9,10
+NLP Engineer,Ireland,EN,63721.56,9
+NLP Engineer,Ireland,EX,181724.45,11
+NLP Engineer,Ireland,MI,95223.6,10
+NLP Engineer,Ireland,SE,132606.38,8
+NLP Engineer,Israel,EN,65272.0,7
+NLP Engineer,Israel,EX,203422.12,8
+NLP Engineer,Israel,MI,82810.56,9
+NLP Engineer,Israel,SE,126052.09,11
+NLP Engineer,Japan,EN,78996.09,11
+NLP Engineer,Japan,EX,200575.86,14
+NLP Engineer,Japan,MI,91512.22,9
+NLP Engineer,Japan,SE,129889.09,11
+NLP Engineer,Netherlands,EN,81134.5,4
+NLP Engineer,Netherlands,EX,222709.67,12
+NLP Engineer,Netherlands,MI,98575.8,10
+NLP Engineer,Netherlands,SE,139128.14,7
+NLP Engineer,Norway,EN,96415.4,5
+NLP Engineer,Norway,EX,271054.08,13
+NLP Engineer,Norway,MI,123983.22,9
+NLP Engineer,Norway,SE,155498.73,11
+NLP Engineer,Singapore,EN,75759.5,10
+NLP Engineer,Singapore,EX,228933.86,7
+NLP Engineer,Singapore,MI,97698.82,11
+NLP Engineer,Singapore,SE,139501.09,11
+NLP Engineer,South Korea,EN,56479.2,10
+NLP Engineer,South Korea,EX,171302.57,7
+NLP Engineer,South Korea,MI,76704.0,9
+NLP Engineer,South Korea,SE,113282.8,10
+NLP Engineer,Sweden,EN,67990.26,19
+NLP Engineer,Sweden,EX,208465.38,8
+NLP Engineer,Sweden,MI,92637.88,8
+NLP Engineer,Sweden,SE,129533.73,11
+NLP Engineer,Switzerland,EN,101258.78,9
+NLP Engineer,Switzerland,EX,274097.36,11
+NLP Engineer,Switzerland,MI,120600.86,14
+NLP Engineer,Switzerland,SE,182755.17,12
+NLP Engineer,United Kingdom,EN,73716.25,16
+NLP Engineer,United Kingdom,EX,231275.44,9
+NLP Engineer,United Kingdom,MI,94815.3,10
+NLP Engineer,United Kingdom,SE,119220.62,8
+NLP Engineer,United States,EN,78325.83,6
+NLP Engineer,United States,EX,241579.89,9
+NLP Engineer,United States,MI,110274.46,13
+NLP Engineer,United States,SE,152496.62,8
+Principal Data Scientist,Australia,EN,63018.58,12
+Principal Data Scientist,Australia,EX,192538.25,16
+Principal Data Scientist,Australia,MI,108761.64,11
+Principal Data Scientist,Australia,SE,123971.0,10
+Principal Data Scientist,Austria,EN,57136.0,1
+Principal Data Scientist,Austria,EX,193795.91,11
+Principal Data Scientist,Austria,MI,91319.17,6
+Principal Data Scientist,Austria,SE,124103.43,7
+Principal Data Scientist,Canada,EN,64462.57,7
+Principal Data Scientist,Canada,EX,186107.44,9
+Principal Data Scientist,Canada,MI,86936.8,5
+Principal Data Scientist,Canada,SE,126576.94,17
+Principal Data Scientist,China,EN,30322.56,9
+Principal Data Scientist,China,EX,75509.83,6
+Principal Data Scientist,China,MI,44338.44,9
+Principal Data Scientist,China,SE,63337.27,11
+Principal Data Scientist,Denmark,EN,90011.56,9
+Principal Data Scientist,Denmark,EX,256201.17,12
+Principal Data Scientist,Denmark,MI,110545.8,10
+Principal Data Scientist,Denmark,SE,162032.44,9
+Principal Data Scientist,Finland,EN,62892.0,5
+Principal Data Scientist,Finland,EX,197820.62,8
+Principal Data Scientist,Finland,MI,87436.4,5
+Principal Data Scientist,Finland,SE,117951.19,16
+Principal Data Scientist,France,EN,58361.78,9
+Principal Data Scientist,France,EX,203660.82,11
+Principal Data Scientist,France,MI,90401.4,10
+Principal Data Scientist,France,SE,129397.5,10
+Principal Data Scientist,Germany,EN,66004.47,15
+Principal Data Scientist,Germany,EX,174616.0,4
+Principal Data Scientist,Germany,MI,87475.2,10
+Principal Data Scientist,Germany,SE,124307.55,11
+Principal Data Scientist,India,EN,21736.33,9
+Principal Data Scientist,India,EX,73278.56,9
+Principal Data Scientist,India,MI,33114.0,15
+Principal Data Scientist,India,SE,44581.5,6
+Principal Data Scientist,Ireland,EN,76449.75,4
+Principal Data Scientist,Ireland,EX,214972.5,4
+Principal Data Scientist,Ireland,MI,90935.12,8
+Principal Data Scientist,Ireland,SE,126656.5,12
+Principal Data Scientist,Israel,EN,60540.14,7
+Principal Data Scientist,Israel,EX,172634.12,8
+Principal Data Scientist,Israel,MI,87302.06,17
+Principal Data Scientist,Israel,SE,125629.0,4
+Principal Data Scientist,Japan,EN,80349.0,10
+Principal Data Scientist,Japan,EX,213821.5,8
+Principal Data Scientist,Japan,MI,97895.29,14
+Principal Data Scientist,Japan,SE,132809.4,10
+Principal Data Scientist,Netherlands,EN,69557.25,4
+Principal Data Scientist,Netherlands,EX,192199.9,10
+Principal Data Scientist,Netherlands,MI,100316.35,17
+Principal Data Scientist,Netherlands,SE,147532.33,6
+Principal Data Scientist,Norway,EN,84479.29,7
+Principal Data Scientist,Norway,EX,267964.25,16
+Principal Data Scientist,Norway,MI,108843.0,4
+Principal Data Scientist,Norway,SE,162322.33,6
+Principal Data Scientist,Singapore,EN,75137.78,9
+Principal Data Scientist,Singapore,EX,218024.2,5
+Principal Data Scientist,Singapore,MI,102434.43,14
+Principal Data Scientist,Singapore,SE,140556.0,6
+Principal Data Scientist,South Korea,EN,54906.85,13
+Principal Data Scientist,South Korea,EX,172382.2,5
+Principal Data Scientist,South Korea,MI,72981.38,13
+Principal Data Scientist,South Korea,SE,105425.38,8
+Principal Data Scientist,Sweden,EN,60679.25,12
+Principal Data Scientist,Sweden,EX,219679.94,16
+Principal Data Scientist,Sweden,MI,90575.57,14
+Principal Data Scientist,Sweden,SE,124885.91,11
+Principal Data Scientist,Switzerland,EN,91987.29,14
+Principal Data Scientist,Switzerland,EX,266236.0,11
+Principal Data Scientist,Switzerland,MI,138923.89,9
+Principal Data Scientist,Switzerland,SE,185700.67,9
+Principal Data Scientist,United Kingdom,EN,69780.07,14
+Principal Data Scientist,United Kingdom,EX,231503.0,11
+Principal Data Scientist,United Kingdom,MI,102507.18,11
+Principal Data Scientist,United Kingdom,SE,139256.12,8
+Principal Data Scientist,United States,EN,84945.36,11
+Principal Data Scientist,United States,EX,200817.0,6
+Principal Data Scientist,United States,MI,106462.38,8
+Principal Data Scientist,United States,SE,152428.07,14
+Research Scientist,Australia,EN,63419.43,7
+Research Scientist,Australia,EX,201538.85,13
+Research Scientist,Australia,MI,95791.4,10
+Research Scientist,Australia,SE,131062.86,7
+Research Scientist,Austria,EN,65067.6,10
+Research Scientist,Austria,EX,199945.89,9
+Research Scientist,Austria,MI,82823.62,8
+Research Scientist,Austria,SE,114990.38,8
+Research Scientist,Canada,EN,64191.11,9
+Research Scientist,Canada,EX,177369.67,9
+Research Scientist,Canada,MI,89697.0,10
+Research Scientist,Canada,SE,116799.25,12
+Research Scientist,China,EN,31003.38,8
+Research Scientist,China,EX,93191.23,13
+Research Scientist,China,MI,42176.75,12
+Research Scientist,China,SE,58017.17,6
+Research Scientist,Denmark,EN,90130.75,12
+Research Scientist,Denmark,EX,279335.2,10
+Research Scientist,Denmark,MI,124138.69,13
+Research Scientist,Denmark,SE,169245.17,12
+Research Scientist,Finland,EN,66407.75,8
+Research Scientist,Finland,EX,179846.17,12
+Research Scientist,Finland,MI,79424.0,7
+Research Scientist,Finland,SE,133155.4,10
+Research Scientist,France,EN,59884.14,7
+Research Scientist,France,EX,167150.4,5
+Research Scientist,France,MI,95224.12,8
+Research Scientist,France,SE,115136.4,10
+Research Scientist,Germany,EN,71309.0,6
+Research Scientist,Germany,EX,199455.09,11
+Research Scientist,Germany,MI,97928.62,8
+Research Scientist,Germany,SE,134846.22,9
+Research Scientist,India,EN,24041.0,3
+Research Scientist,India,EX,78877.0,4
+Research Scientist,India,MI,32911.8,10
+Research Scientist,India,SE,42462.75,4
+Research Scientist,Ireland,EN,68313.83,6
+Research Scientist,Ireland,EX,201713.08,12
+Research Scientist,Ireland,MI,99851.43,14
+Research Scientist,Ireland,SE,118287.14,7
+Research Scientist,Israel,EN,60894.08,13
+Research Scientist,Israel,EX,160695.94,16
+Research Scientist,Israel,MI,80200.33,6
+Research Scientist,Israel,SE,128558.33,9
+Research Scientist,Japan,EN,77533.89,9
+Research Scientist,Japan,EX,176896.33,6
+Research Scientist,Japan,MI,104862.9,10
+Research Scientist,Japan,SE,131134.82,11
+Research Scientist,Netherlands,EN,73843.44,9
+Research Scientist,Netherlands,EX,213258.45,11
+Research Scientist,Netherlands,MI,97833.44,9
+Research Scientist,Netherlands,SE,145360.3,10
+Research Scientist,Norway,EN,85588.67,12
+Research Scientist,Norway,EX,249614.43,7
+Research Scientist,Norway,MI,121078.73,15
+Research Scientist,Norway,SE,158222.91,11
+Research Scientist,Singapore,EN,67872.5,10
+Research Scientist,Singapore,EX,202119.6,10
+Research Scientist,Singapore,MI,102767.12,8
+Research Scientist,Singapore,SE,129381.43,14
+Research Scientist,South Korea,EN,54149.46,13
+Research Scientist,South Korea,EX,163267.5,8
+Research Scientist,South Korea,MI,77120.55,11
+Research Scientist,South Korea,SE,95718.29,7
+Research Scientist,Sweden,EN,64781.56,9
+Research Scientist,Sweden,EX,187828.0,9
+Research Scientist,Sweden,MI,94361.8,5
+Research Scientist,Sweden,SE,129333.33,9
+Research Scientist,Switzerland,EN,103944.0,7
+Research Scientist,Switzerland,EX,285836.14,7
+Research Scientist,Switzerland,MI,136820.5,8
+Research Scientist,Switzerland,SE,197501.22,9
+Research Scientist,United Kingdom,EN,70810.0,6
+Research Scientist,United Kingdom,EX,212447.57,7
+Research Scientist,United Kingdom,MI,92537.17,6
+Research Scientist,United Kingdom,SE,134137.82,11
+Research Scientist,United States,EN,77309.9,10
+Research Scientist,United States,EX,221980.38,8
+Research Scientist,United States,MI,109969.56,9
+Research Scientist,United States,SE,147961.71,7
+Robotics Engineer,Australia,EN,60818.12,8
+Robotics Engineer,Australia,EX,196199.71,7
+Robotics Engineer,Australia,MI,88560.75,8
+Robotics Engineer,Australia,SE,131047.71,14
+Robotics Engineer,Austria,EN,63864.09,11
+Robotics Engineer,Austria,EX,185611.58,12
+Robotics Engineer,Austria,MI,88711.88,8
+Robotics Engineer,Austria,SE,122770.46,13
+Robotics Engineer,Canada,EN,66968.0,7
+Robotics Engineer,Canada,EX,184631.22,9
+Robotics Engineer,Canada,MI,85887.36,11
+Robotics Engineer,Canada,SE,127956.6,10
+Robotics Engineer,China,EN,31830.08,12
+Robotics Engineer,China,EX,99777.6,10
+Robotics Engineer,China,MI,46142.79,14
+Robotics Engineer,China,SE,58786.42,12
+Robotics Engineer,Denmark,EN,97165.67,6
+Robotics Engineer,Denmark,EX,269414.9,10
+Robotics Engineer,Denmark,MI,114575.22,9
+Robotics Engineer,Denmark,SE,159556.6,10
+Robotics Engineer,Finland,EN,57656.33,3
+Robotics Engineer,Finland,EX,186647.69,16
+Robotics Engineer,Finland,MI,88407.7,10
+Robotics Engineer,Finland,SE,118198.0,8
+Robotics Engineer,France,EN,60804.64,11
+Robotics Engineer,France,EX,180025.0,9
+Robotics Engineer,France,MI,89617.75,8
+Robotics Engineer,France,SE,116450.0,9
+Robotics Engineer,Germany,EN,72390.62,8
+Robotics Engineer,Germany,EX,191845.38,16
+Robotics Engineer,Germany,MI,90264.4,5
+Robotics Engineer,Germany,SE,131337.0,6
+Robotics Engineer,India,EN,25465.29,7
+Robotics Engineer,India,EX,65032.67,9
+Robotics Engineer,India,MI,33809.0,7
+Robotics Engineer,India,SE,46717.57,7
+Robotics Engineer,Ireland,EN,67911.5,8
+Robotics Engineer,Ireland,EX,209231.21,14
+Robotics Engineer,Ireland,MI,94596.07,14
+Robotics Engineer,Ireland,SE,124974.45,11
+Robotics Engineer,Israel,EN,59021.12,8
+Robotics Engineer,Israel,EX,185165.7,10
+Robotics Engineer,Israel,MI,81333.0,9
+Robotics Engineer,Israel,SE,131803.33,6
+Robotics Engineer,Japan,EN,64258.12,8
+Robotics Engineer,Japan,EX,189957.3,10
+Robotics Engineer,Japan,MI,95686.0,10
+Robotics Engineer,Japan,SE,146076.38,8
+Robotics Engineer,Netherlands,EN,74033.77,13
+Robotics Engineer,Netherlands,EX,208458.0,8
+Robotics Engineer,Netherlands,MI,97912.0,6
+Robotics Engineer,Netherlands,SE,131751.7,10
+Robotics Engineer,Norway,EN,85989.42,12
+Robotics Engineer,Norway,EX,258294.8,10
+Robotics Engineer,Norway,MI,119138.15,13
+Robotics Engineer,Norway,SE,174207.8,5
+Robotics Engineer,Singapore,EN,73734.62,13
+Robotics Engineer,Singapore,EX,184705.5,4
+Robotics Engineer,Singapore,MI,95699.22,9
+Robotics Engineer,Singapore,SE,133798.13,15
+Robotics Engineer,South Korea,EN,49356.5,6
+Robotics Engineer,South Korea,EX,180608.14,7
+Robotics Engineer,South Korea,MI,74429.29,7
+Robotics Engineer,South Korea,SE,110673.89,9
+Robotics Engineer,Sweden,EN,63614.4,10
+Robotics Engineer,Sweden,EX,191649.6,5
+Robotics Engineer,Sweden,MI,92714.36,11
+Robotics Engineer,Sweden,SE,126607.3,10
+Robotics Engineer,Switzerland,EN,94400.2,10
+Robotics Engineer,Switzerland,EX,253108.29,7
+Robotics Engineer,Switzerland,MI,138685.27,15
+Robotics Engineer,Switzerland,SE,182595.8,10
+Robotics Engineer,United Kingdom,EN,72339.73,11
+Robotics Engineer,United Kingdom,EX,227180.88,8
+Robotics Engineer,United Kingdom,MI,98011.14,14
+Robotics Engineer,United Kingdom,SE,141600.17,12
+Robotics Engineer,United States,EN,80612.62,8
+Robotics Engineer,United States,EX,255980.5,10
+Robotics Engineer,United States,MI,112104.46,13
+Robotics Engineer,United States,SE,142425.0,5
