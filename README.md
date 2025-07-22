@@ -18,8 +18,8 @@ _or_
 ![Dashboard Screenshot](dashboard/AI_Dashboard.png)
 
 ## 📁 Project Structure
-- **/analysis** - Python notebooks or scripts
-- **/dashboard** - Tableau workbook or image
+- **/analysis** - Python notebooks and scripts
+- **/dashboard** - Tableau workbook and image
 - **/data** - Raw and cleaned datasets
 - **README.md** - Project overview
 
